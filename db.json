@@ -1,0 +1,2555 @@
+{
+  "userProfile": [
+    {
+      "id": "e7cd",
+      "firstname": "Test",
+      "lastname": "qwerty",
+      "phoneNumber": "9904343057",
+      "email": "testing@gmail.com",
+      "password": "Qwerty@123",
+      "confirmpassword": "Qwerty@123",
+      "cart": [
+        {
+          "id": "1",
+          "title": "Organic Whole Wheat Flour - 5kg",
+          "price": 200,
+          "description": "Stone-ground whole wheat flour for healthy and nutritious baking.",
+          "category": "grocery",
+          "image": [
+            "https://cdn.shopify.com/s/files/1/0518/1980/6879/files/Paigambari_Wheat_Flour_F.jpg?v=1739516229",
+            "https://biobasics.org/cdn/shop/files/Whole_Wheat_Flour_B.jpg?v=1739516217&width=4000"
+          ],
+          "rating": {
+            "rate": 3,
+            "count": 320
+          },
+          "about": [
+            "Made from 100% organic whole wheat grains.",
+            "Rich in fiber and essential nutrients for a healthy diet.",
+            "Perfect for baking chapatis, bread, and other whole wheat recipes.",
+            "Stone-ground to retain natural goodness and texture.",
+            "No artificial additives or preservatives."
+          ]
+        }
+      ],
+      "wishlist": [
+        {
+          "id": "9",
+          "title": "Raw Cashews - 500g",
+          "price": 550,
+          "description": "Premium quality cashews, perfect for snacking and cooking.",
+          "category": "grocery",
+          "image": "https://www.jiomart.com/images/product/original/rvx5ombs4g/farmley-whole-cashews-natural-raw-w400-kaju-500g-product-images-orvx5ombs4g-p590593787-0-202310251255.jpg?im=Resize=(1000,1000)",
+          "rating": {
+            "rate": 4.6,
+            "count": 220
+          }
+        },
+        {
+          "id": "2",
+          "title": "Natural Almonds - 1kg",
+          "price": 500,
+          "description": "Premium quality natural almonds, rich in protein and fiber.",
+          "category": "grocery",
+          "image": [
+            "https://foodsalive.com/cdn/shop/files/Almond-Back.jpg?v=1713806961&width=416",
+            "https://foodsalive.com/cdn/shop/files/deluxe-mixed-nuts-back.jpg?v=1713807839&width=1780",
+            "https://foodsalive.com/cdn/shop/files/deluxe-mixed-nuts-nutrition.jpg?v=1713807839&width=1780"
+          ],
+          "rating": {
+            "rate": 4.7,
+            "count": 210
+          },
+          "about": [
+            "Sourced from premium quality almonds for superior taste and nutrition.",
+            "Rich in protein, fiber, and healthy fats.",
+            "Perfect as a healthy snack or for adding to dishes and desserts.",
+            "No added salt, sugar, or preservatives.",
+            "Packed with antioxidants and essential vitamins for overall well-being."
+          ]
+        }
+      ],
+      "profileImage": "blob:http://localhost:5173/0a8c05ff-883e-4adc-8570-d13511c568f2"
+    },
+    {
+      "id": "26cd",
+      "firstname": "vishva",
+      "lastname": "patel",
+      "phoneNumber": "9908989990",
+      "email": "vishva07@gmail.com",
+      "password": "Vishva@7",
+      "confirmpassword": "Vishva@7",
+      "cart": [],
+      "wishlist": [],
+      "profileImage": "blob:http://localhost:5173/01d9cfa8-6250-4393-8597-5f0169248ae4"
+    }
+  ],
+  "bestsellers": [
+    {
+      "id": "1",
+      "title": "Organic Whole Wheat Flour - 5kg",
+      "price": 200,
+      "description": "Stone-ground whole wheat flour for healthy and nutritious baking.",
+      "category": "grocery",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0518/1980/6879/files/Paigambari_Wheat_Flour_F.jpg?v=1739516229",
+        "https://biobasics.org/cdn/shop/files/Whole_Wheat_Flour_B.jpg?v=1739516217&width=4000"
+      ],
+      "rating": {
+        "rate": 3,
+        "count": 320
+      },
+      "about": [
+        "Made from 100% organic whole wheat grains.",
+        "Rich in fiber and essential nutrients for a healthy diet.",
+        "Perfect for baking chapatis, bread, and other whole wheat recipes.",
+        "Stone-ground to retain natural goodness and texture.",
+        "No artificial additives or preservatives."
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Women's Stylish Handbag",
+      "price": 9999,
+      "description": "Elegant and spacious handbag for everyday use.",
+      "category": "fashion",
+      "image": [
+        "https://m.media-amazon.com/images/I/41lPx0iuL+L._SY695_.jpg",
+        "https://m.media-amazon.com/images/I/71jQSFS+SWL._SX675_.jpg",
+        "https://m.media-amazon.com/images/I/61B9L8i3xGL._SY675_.jpg",
+        "https://m.media-amazon.com/images/I/61hF1KOTJWL._SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61NxPcgGb8L._SY695_.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 280
+      },
+      "about": [
+        "Elegant and stylish handbag with premium craftsmanship.",
+        "Spacious compartments for better organization.",
+        "Durable material ensures long-lasting use.",
+        "Perfect for daily, office, or party use.",
+        "Available in multiple colors and designs."
+      ]
+    },
+    {
+      "id": "50",
+      "title": "Eye Shadow Palette - 12 Colors",
+      "price": 1599,
+      "description": "Highly pigmented eyeshadow palette for various looks.",
+      "category": "beautyproducts",
+      "image": [
+        "https://marscosmetics.in/cdn/shop/products/MG_6125-1.jpg?v=1648013955&width=1000",
+        "https://marscosmetics.in/cdn/shop/files/Artboard1_5.jpg?v=1719475457&width=200",
+        "https://marscosmetics.in/cdn/shop/files/Artboard2_7.jpg?v=1719475457&width=200",
+        "https://marscosmetics.in/cdn/shop/products/MG_6125-2_f89c9a23-1d52-438a-85c3-64f2a32a0c59.jpg?v=1719475457&width=200"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 450
+      },
+      "about": [
+        "12 highly pigmented shades for endless eye looks.",
+        "Blendable and buildable formula.",
+        "Matte, shimmer, and satin finishes.",
+        "Long-lasting wear without creasing.",
+        "Suitable for all skin tones."
+      ]
+    },
+    {
+      "id": "84",
+      "title": "iPhone 13 - 128GB",
+      "price": 79999,
+      "description": "Apple iPhone 13 with 128GB storage, A15 Bionic chip, and dual-camera system.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/71GLMJ7TQiL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61NTwRtdzfL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71G44HUh7yL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81otRqY0XXL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 700
+      },
+      "about": [
+        "128GB storage for your apps and photos.",
+        "A15 Bionic chip for fast performance.",
+        "Dual-camera system for stunning pictures.",
+        "Super Retina XDR display for vibrant visuals.",
+        "iOS updates for years of support."
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Organic Whole Wheat Flour - 5kg",
+      "price": 200,
+      "description": "Stone-ground whole wheat flour for healthy and nutritious baking.",
+      "category": "grocery",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0518/1980/6879/files/Paigambari_Wheat_Flour_F.jpg?v=1739516229",
+        "https://biobasics.org/cdn/shop/files/Whole_Wheat_Flour_B.jpg?v=1739516217&width=4000"
+      ],
+      "rating": {
+        "rate": 3,
+        "count": 320
+      },
+      "about": [
+        "Made from 100% organic whole wheat grains.",
+        "Rich in fiber and essential nutrients for a healthy diet.",
+        "Perfect for baking chapatis, bread, and other whole wheat recipes.",
+        "Stone-ground to retain natural goodness and texture.",
+        "No artificial additives or preservatives."
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Natural Almonds - 1kg",
+      "price": 500,
+      "description": "Premium quality natural almonds, rich in protein and fiber.",
+      "category": "grocery",
+      "image": [
+        "https://foodsalive.com/cdn/shop/files/Almond-Back.jpg?v=1713806961&width=416",
+        "https://foodsalive.com/cdn/shop/files/deluxe-mixed-nuts-back.jpg?v=1713807839&width=1780",
+        "https://foodsalive.com/cdn/shop/files/deluxe-mixed-nuts-nutrition.jpg?v=1713807839&width=1780"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 210
+      },
+      "about": [
+        "Sourced from premium quality almonds for superior taste and nutrition.",
+        "Rich in protein, fiber, and healthy fats.",
+        "Perfect as a healthy snack or for adding to dishes and desserts.",
+        "No added salt, sugar, or preservatives.",
+        "Packed with antioxidants and essential vitamins for overall well-being."
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Cold Pressed Virgin Olive Oil - 500ml",
+      "price": 100,
+      "description": "Extra virgin olive oil with a rich taste, perfect for cooking and salads.",
+      "category": "grocery",
+      "image": [
+        "https://purenutrition.in/cdn/shop/files/Olive-Oil-250-ml_1.jpg?v=1729248671&width=1946",
+        "https://m.media-amazon.com/images/I/61Gk1YXmnGL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61Z7MD7girL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51cvVrJ8TcL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 150
+      },
+      "about": [
+        "Cold-pressed to retain natural flavor and nutrients.",
+        "Rich in heart-healthy monounsaturated fats.",
+        "Ideal for dressings, dips, and sautéing.",
+        "Contains antioxidants that promote overall wellness.",
+        "No artificial additives or preservatives."
+      ]
+    },
+    {
+      "id": "400",
+      "title": "Organic Brown Rice - 2kg",
+      "price": 1099,
+      "description": "Naturally grown brown rice for a healthy diet.",
+      "category": "grocery",
+      "image": [
+        "https://www.organicgyaan.com/cdn/shop/files/Brown_Rice_db8c01b2-c372-47cc-80fb-6cebd5445b39.jpg?v=1721448987&width=1080",
+        "https://www.organicgyaan.com/cdn/shop/products/ProductDisplayImage-4-BrownRice-V2-WebVersion.jpg?v=1721449003&width=480",
+        "https://www.organicgyaan.com/cdn/shop/products/ProductDisplayImage-3-BrownRice-V2-WebVersion.jpg?v=1721449003&width=480",
+        "https://www.organicgyaan.com/cdn/shop/files/Brown-Rice.jpg?v=1721449003&width=675"
+      ],
+      "rating": {
+        "rate": 4.4,
+        "count": 180
+      },
+      "about": [
+        "Grown using organic farming methods.",
+        "Rich in fiber, vitamins, and minerals.",
+        "Low glycemic index, suitable for diabetics.",
+        "A great alternative to white rice for a balanced diet.",
+        "No artificial chemicals or preservatives."
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Pure Honey - 500g",
+      "price": 80,
+      "description": "Raw and unfiltered honey, rich in natural antioxidants.",
+      "category": "grocery",
+      "image": [
+        "https://www.bigbasket.com/media/uploads/p/l/40014260_6-phalada-pure-sure-organic-honey.jpg",
+        "https://www.bigbasket.com/media/uploads/p/xxl/40014260-2_8-phalada-pure-sure-organic-honey.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/40014260-3_8-phalada-pure-sure-organic-honey.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/40014260-4_8-phalada-pure-sure-organic-honey.jpg"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 250
+      },
+      "about": [
+        "Sourced from wild beehives and free from chemicals.",
+        "Rich in antioxidants and natural enzymes.",
+        "Perfect as a natural sweetener in beverages and recipes.",
+        "Helps boost immunity and supports digestive health.",
+        "No added sugars, artificial flavors, or preservatives."
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Organic Quinoa - 1kg",
+      "price": 100,
+      "description": "Gluten-free, protein-rich quinoa for a balanced diet.",
+      "category": "grocery",
+      "image": [
+        "https://www.jiwa.in/cdn/shop/products/YUc_JIWA_quinoa_PROSHOT_mar_2021_a.jpg?v=1659934852",
+        "https://www.jiwa.in/cdn/shop/products/JIWA_org-quinoa-500g-a.jpg_29082022_1800x1800.jpg?v=1662475398",
+        "https://www.jiwa.in/cdn/shop/products/YUc_JIWA_Quinoa5kg_PROSHOT_a_1800x1800.jpg?v=1667653959",
+        "https://www.jiwa.in/cdn/shop/products/YUc_JIWA_Google-Ads_Quinoa_1200X1200_b846826d-13ef-4ab6-80a2-b7b990fd07e0_1800x1800.jpg?v=1673679916"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 175
+      },
+      "about": [
+        "100% organic and gluten-free quinoa.",
+        "Rich in protein and essential amino acids.",
+        "Perfect for salads, soups, and healthy meals.",
+        "A great alternative to rice and pasta.",
+        "No artificial preservatives or additives."
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Whole Grain Oats - 1kg",
+      "price": 150,
+      "description": "High-fiber whole grain oats, perfect for a healthy breakfast.",
+      "category": "grocery",
+      "image": [
+        "https://m.media-amazon.com/images/I/716WcNddbDS.jpg",
+        "https://m.media-amazon.com/images/I/71t6GqIS0QS._SY879_.jpg",
+        "https://m.media-amazon.com/images/I/812jPQHtnWL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81uOkzhQeWL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 200
+      },
+      "about": [
+        "100% whole grain oats for a nutritious breakfast.",
+        "High in fiber to support digestive health.",
+        "Great for making porridge, smoothies, and granola.",
+        "Helps maintain energy levels throughout the day.",
+        "No added sugar, preservatives, or artificial flavors."
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Organic Chia Seeds - 500g",
+      "price": 600,
+      "description": "Rich in Omega-3, fiber, and protein for a superfood diet.",
+      "category": "grocery",
+      "image": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc_oOelaEXjfjtV7j5iVLdIgMU0aE_CEDLZQ&s",
+        "https://www.consciousfood.com/cdn/shop/products/chia_seeds_1920_i.jpg?v=1696327739&width=823",
+        "https://www.consciousfood.com/cdn/shop/files/ChiaSeeds.jpg?v=1696327739&width=823",
+        "https://www.consciousfood.com/cdn/shop/files/2_4_b9904599-ed36-47fe-ad8b-e8d95fcad271.jpg?v=1696327739&width=823"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 230
+      },
+      "about": [
+        "High in Omega-3 fatty acids for heart health.",
+        "Excellent source of fiber and plant-based protein.",
+        "Perfect for smoothies, puddings, and baked goods.",
+        "Rich in antioxidants to support overall wellness.",
+        "No artificial additives, gluten-free, and non-GMO."
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Raw Cashews - 500g",
+      "price": 550,
+      "description": "Premium quality cashews, perfect for snacking and cooking.",
+      "category": "grocery",
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvx5ombs4g/farmley-whole-cashews-natural-raw-w400-kaju-500g-product-images-orvx5ombs4g-p590593787-0-202310251255.jpg?im=Resize=(1000,1000)",
+        "https://www.jiomart.com/images/product/original/rvx5ombs4g/farmley-whole-cashews-natural-raw-w400-kaju-500g-product-images-orvx5ombs4g-p590593787-1-202407301015.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvx5ombs4g/farmley-whole-cashews-natural-raw-w400-kaju-500g-product-images-orvx5ombs4g-p590593787-2-202407301016.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvx5ombs4g/farmley-whole-cashews-natural-raw-w400-kaju-500g-product-images-orvx5ombs4g-p590593787-5-202407301016.jpg?im=Resize=(420,420)"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 220
+      },
+      "about": [
+        "Premium quality raw cashews with a creamy texture.",
+        "Rich in healthy fats and essential minerals.",
+        "Perfect for snacking, cooking, and baking.",
+        "Boosts energy and supports overall health.",
+        "No added salt, preservatives, or artificial ingredients."
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Natural Peanut Butter - 1kg",
+      "price": 1000,
+      "description": "No added sugar, rich in protein and healthy fats.",
+      "category": "grocery",
+      "image": [
+        "https://www.bigbasket.com/media/uploads/p/l/40286476_1-real-health-peanut-butter-100-natural-creamy.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/40286476-2_1-real-health-peanut-butter-100-natural-creamy.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/40286476-3_1-real-health-peanut-butter-100-natural-creamy.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/40286476-8_1-real-health-peanut-butter-100-natural-creamy.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 270
+      },
+      "about": [
+        "Made from 100% natural roasted peanuts.",
+        "No added sugar, salt, or hydrogenated oils.",
+        "High in protein and healthy fats for muscle building.",
+        "Creamy texture, perfect for spreads and smoothies.",
+        "No artificial preservatives, gluten-free, and vegan-friendly."
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Coconut Sugar - 500g",
+      "price": 700,
+      "description": "A natural alternative to refined sugar, low glycemic index.",
+      "category": "grocery",
+      "image": [
+        "https://planetspick.com/wp-content/uploads/2021/09/CS1.jpeg",
+        "https://planetspick.com/wp-content/uploads/2021/09/CS2.jpeg"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 160
+      },
+      "about": [
+        "100% natural and unrefined coconut sugar.",
+        "Low glycemic index, suitable for diabetics.",
+        "Rich in minerals and antioxidants.",
+        "Perfect for baking, beverages, and cooking.",
+        "No artificial colors or preservatives."
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Organic Green Tea - 100 Bags",
+      "price": 740,
+      "description": "Rich in antioxidants, boosts metabolism and immunity.",
+      "category": "grocery",
+      "image": [
+        "https://www.tearaja.in/cdn/shop/products/organic-green-tea-tearaja-1.jpg?v=1704912609",
+        "https://m.media-amazon.com/images/I/71mzhnkp4HL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71lGnNsVNqL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71MqWCZuPIL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 280
+      },
+      "about": [
+        "100% organic green tea leaves.",
+        "Packed with antioxidants for overall wellness.",
+        "Boosts metabolism and aids in weight loss.",
+        "Enhances immunity and reduces stress.",
+        "No artificial flavors or additives."
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Dried Cranberries - 250g",
+      "price": 357,
+      "description": "Tangy and sweet dried cranberries, perfect for snacking and baking.",
+      "category": "grocery",
+      "image": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRbw-eoJ9GGQgx_mUbxhBI6Gdptp85CjrnxLhxS8RaaPUkWoX0onjBxw3Y2IHfulj_eFxFAUcGtttTb6TG8_D9h-84nXy7i3__tRypA7aAeZnaeOlUTtBE&usqp=CAE",
+        "https://www.farmley.com/cdn/shop/files/02_ca45cc8e-48ed-442c-9534-7b033129f531_600x.png?v=1715078425",
+        "https://www.farmley.com/cdn/shop/files/03_c3847ce2-27e5-4ce6-9392-8ca9fa54426e_600x.png?v=1715078425",
+        "https://www.farmley.com/cdn/shop/files/041_674143ea-10f8-4128-b920-0f0e324989d6_600x.png?v=1715078425"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 190
+      },
+      "about": [
+        "Premium quality dried cranberries.",
+        "Naturally sweet and tangy taste.",
+        "Perfect for snacking, baking, and salads.",
+        "Rich in antioxidants and fiber.",
+        "No added preservatives or artificial colors."
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Organic Turmeric Powder - 200g",
+      "price": 340,
+      "description": "Pure turmeric powder with high curcumin content for health benefits.",
+      "category": "grocery",
+      "image": [
+        "https://www.organicgyaan.com/cdn/shop/files/Turmeric_Powder_1449c309-074b-4b87-95db-ab511e4e1fed.jpg?v=1721393865&width=1080",
+        "https://m.media-amazon.com/images/I/51CG08VLziL._AC_UF1000,1000_QL80_.jpg",
+        "https://m.media-amazon.com/images/I/61bKwRdG+sL._AC_UF1000,1000_QL80_.jpg",
+        "https://m.media-amazon.com/images/I/61UXov8GuAL._AC_UF1000,1000_QL80_.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 210
+      },
+      "about": [
+        "100% organic and pure turmeric powder.",
+        "High curcumin content for maximum health benefits.",
+        "Boosts immunity and reduces inflammation.",
+        "Ideal for cooking, skincare, and medicinal use.",
+        "No artificial colors, preservatives, or additives."
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Extra Virgin Coconut Oil - 500ml",
+      "price": 120,
+      "description": "Cold-pressed coconut oil, ideal for cooking and skincare.",
+      "category": "grocery",
+      "image": [
+        "https://thecoconutpeople.in/cdn/shop/products/9_1000x.png?v=1647457638",
+        "https://brownliving.in/cdn/shop/products/100-certified-organic-virgin-cold-pressed-coconut-oil-140-03359-tcp-vco-200-hair-oil-672322.jpg?v=1682959703&width=600",
+        "https://brownliving.in/cdn/shop/products/100-certified-organic-virgin-cold-pressed-coconut-oil-140-03359-tcp-vco-200-hair-oil-582429.jpg?v=1682959703&width=1000",
+        "https://brownliving.in/cdn/shop/products/100-certified-organic-virgin-cold-pressed-coconut-oil-140-03359-tcp-vco-200-hair-oil-983932.jpg?v=1682959703&width=600"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 250
+      },
+      "about": [
+        "100% pure and cold-pressed extra virgin coconut oil.",
+        "Ideal for cooking, skincare, and haircare.",
+        "Rich in healthy fats and essential nutrients.",
+        "Promotes heart health and boosts metabolism.",
+        "No added chemicals or preservatives."
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Whole Black Pepper - 250g",
+      "price": 465,
+      "description": "Aromatic whole black pepper for seasoning and spice blends.",
+      "category": "grocery",
+      "image": [
+        "https://www.shop.jivo.in/wp-content/uploads/2024/09/black-pepper-1.jpg",
+        "https://m.media-amazon.com/images/I/91AmXmKdoVL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71Ebpmu0C5L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81zhQS1EdXL._SL1500_.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 140
+      },
+      "about": [
+        "High-quality whole black pepper with strong aroma.",
+        "Adds bold flavor to various dishes.",
+        "Rich in antioxidants and essential oils.",
+        "Boosts digestion and metabolism.",
+        "No artificial colors or preservatives."
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Organic Red Lentils - 1kg",
+      "price": 750,
+      "description": "Protein-rich red lentils, ideal for soups and curries.",
+      "category": "grocery",
+      "image": [
+        "https://divyas.com/wp-content/uploads/2024/07/Red-Lentil-front-scaled.jpg",
+        "https://divyas.com/wp-content/uploads/2024/07/Red-Lentils-back-scaled.jpg",
+        "https://divyas.com/wp-content/uploads/2024/07/Red-Lentils-Raw-scaled.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 180
+      },
+      "about": [
+        "100% organic and protein-rich red lentils.",
+        "Perfect for soups, curries, and dal.",
+        "Easy to cook and digest.",
+        "No artificial additives or preservatives.",
+        "Sustainably grown and harvested."
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Organic Himalayan Pink Salt - 500g",
+      "price": 80,
+      "description": "Rich in minerals, pure and unrefined Himalayan pink salt.",
+      "category": "grocery",
+      "image": [
+        "https://www.organicgyaan.com/cdn/shop/files/1_Himalayan_Pink_Salt_Powder.jpg?v=1721392023&width=1000",
+        "https://www.organicgyaan.com/cdn/shop/files/4_73036a96-30e8-437e-89f8-e51308ca4a91.jpg?v=1721392034&width=480",
+        "https://www.organicgyaan.com/cdn/shop/files/Himalayan-PInk-Salt.jpg?v=1721392034&width=480"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 220
+      },
+      "about": [
+        "100% pure and unrefined Himalayan pink salt.",
+        "Rich in essential minerals and electrolytes.",
+        "Enhances flavor while maintaining health benefits.",
+        "Ideal for cooking, seasoning, and detox.",
+        "No artificial chemicals or bleaching."
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Organic Sunflower Seeds - 500g",
+      "price": 220,
+      "description": "Nutrient-dense sunflower seeds, great for snacking and salads.",
+      "category": "grocery",
+      "image": [
+        "https://www.organicgyaan.com/cdn/shop/files/SunflowerSeeds_1.jpg?v=1711194100&width=640",
+        "https://www.organicgyaan.com/cdn/shop/products/2_6c14b326-b280-46f6-877c-1dfe8bb44586.jpg?v=1711194100&width=480",
+        "https://www.organicgyaan.com/cdn/shop/products/4_5fdc1d91-fa1a-4306-877f-8db72d5ad783.jpg?v=1711194100&width=480",
+        "https://www.organicgyaan.com/cdn/shop/files/Sunflower-Seeds.jpg?v=1711194100&width=675"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 170
+      },
+      "about": [
+        "100% organic sunflower seeds rich in healthy fats.",
+        "Great for snacking, baking, and salads.",
+        "High in fiber, vitamins, and minerals.",
+        "Supports heart health and digestion.",
+        "No artificial additives or preservatives."
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Organic Flaxseeds - 500g",
+      "price": 120,
+      "description": "Rich in Omega-3, fiber, and protein, great for digestion.",
+      "category": "grocery",
+      "image": [
+        "https://www.organicgyaan.com/cdn/shop/files/FlaxSeed.jpg?v=1711194235&width=160",
+        "https://www.organicgyaan.com/cdn/shop/products/2_c03858d8-563e-4278-a57f-9fe024ef6da2.jpg?v=1711194235&width=160",
+        "https://www.organicgyaan.com/cdn/shop/products/4_e2e8b3e9-2c6e-4bf0-9ea6-b5ae89209621.jpg?v=1711194235&width=480",
+        "https://www.organicgyaan.com/cdn/shop/products/1_b0c58346-fc43-4d01-b625-dc24065b634d.jpg?v=1711194235&width=480"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 200
+      },
+      "about": [
+        "100% organic flaxseeds rich in Omega-3.",
+        "Great for heart health and digestion.",
+        "Can be added to smoothies, yogurt, and baking.",
+        "No artificial preservatives or flavors.",
+        "Supports weight management and metabolism."
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Men's Casual Slim Fit T-Shirts",
+      "price": 350,
+      "description": "Soft fabric for breathable and comfortable wearing.",
+      "category": "fashion",
+      "image": [
+        "https://assets.ajio.com/medias/sys_master/root/20230602/JRvr/64793436d55b7d0c6336ff24/-473Wx593H-461571257-blue-MODEL.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230602/pglj/64793436d55b7d0c6336fedf/-473Wx593H-461571257-blue-MODEL3.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230602/W3BT/64793436d55b7d0c6336fedd/-473Wx593H-461571257-blue-MODEL4.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230602/T4ny/64793436d55b7d0c6336fed5/-473Wx593H-461571257-blue-MODEL5.jpg"
+      ],
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      },
+      "about": [
+        "Made from premium soft cotton fabric.",
+        "Breathable and lightweight for all-day comfort.",
+        "Slim fit design for a modern casual look.",
+        "Available in multiple colors and sizes.",
+        "Perfect for everyday wear or layering."
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Women's Denim Jacket",
+      "price": 600,
+      "description": "Classic denim jacket for a stylish casual look.",
+      "category": "fashion",
+      "image": [
+        "https://m.media-amazon.com/images/I/913sL+OvALL._SY879_.jpg",
+        "https://m.media-amazon.com/images/I/91lPlE6PzDL._SY879_.jpg",
+        "https://m.media-amazon.com/images/I/91zTbuvFT6L._SY879_.jpg",
+        "https://m.media-amazon.com/images/I/A1F3YUZCXOL._SY879_.jpg"
+      ],
+      "rating": {
+        "rate": 4.4,
+        "count": 300
+      },
+      "about": [
+        "Classic denim jacket with a trendy fit.",
+        "Durable fabric for long-lasting wear.",
+        "Versatile styling for casual or semi-formal outfits.",
+        "Available in different washes and sizes.",
+        "Comfortable and perfect for layering."
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Men's Cotton Chinos Pants",
+      "price": 999,
+      "description": "Stylish and comfortable chinos for a smart casual look.",
+      "category": "fashion",
+      "image": [
+        "https://m.media-amazon.com/images/I/61fw-YAjV6L._SY879_.jpg",
+        "https://m.media-amazon.com/images/I/61uP5blt5+L._SY879_.jpg",
+        "https://m.media-amazon.com/images/I/71Zxz6-cqeL._SY879_.jpg",
+        "https://m.media-amazon.com/images/I/81YEtqmgaRL._SY879_.jpg"
+      ],
+      "rating": {
+        "rate": 4.3,
+        "count": 180
+      },
+      "about": [
+        "Made from high-quality breathable cotton fabric.",
+        "Slim-fit design for a modern and stylish appearance.",
+        "Ideal for office wear or casual outings.",
+        "Multiple pockets for practicality and convenience.",
+        "Easy to pair with shirts, polos, or t-shirts."
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Women's Summer Maxi Dress",
+      "price": 399,
+      "description": "Lightweight and flowy maxi dress perfect for summer.",
+      "category": "fashion",
+      "image": [
+        "https://m.media-amazon.com/images/I/61tVL4LLzsL._SY879_.jpg",
+        "https://m.media-amazon.com/images/I/819oh4fF2qL._SY879_.jpg",
+        "https://m.media-amazon.com/images/I/718M1ZB-kkL._SY879_.jpg",
+        "https://m.media-amazon.com/images/I/714tlPRAlOL._SY879_.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 220
+      },
+      "about": [
+        "Soft and breathable fabric perfect for summer.",
+        "Elegant flowy design for a flattering fit.",
+        "Available in multiple colors and patterns.",
+        "Ideal for beach outings, casual wear, or parties.",
+        "Machine washable for easy care."
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Men's Leather Wallet",
+      "price": 799,
+      "description": "Premium quality genuine leather wallet with multiple compartments.",
+      "category": "fashion",
+      "image": [
+        "https://images-cdn.ubuy.co.in/6762e955fd9cfd496b5d6f29-leather-men-s-wallet-luxury-mens-purse.jpg",
+        "https://images-cdn.ubuy.co.in/6762e955fd9cfd496b5d6f2a-leather-men-s-wallet-luxury-mens-purse.jpg",
+        "https://images-cdn.ubuy.co.in/6762e955fd9cfd496b5d6f2c-leather-men-s-wallet-luxury-mens-purse.jpg",
+        "https://images-cdn.ubuy.co.in/6762e955fd9cfd496b5d6f2e-leather-men-s-wallet-luxury-mens-purse.jpg"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 300
+      },
+      "about": [
+        "Made from 100% genuine leather for durability.",
+        "Multiple compartments for cards, cash, and coins.",
+        "Slim and stylish design for easy carrying.",
+        "Classic look suitable for formal and casual use.",
+        "Great gift choice for men of all ages."
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Women's Stylish Handbag",
+      "price": 9999,
+      "description": "Elegant and spacious handbag for everyday use.",
+      "category": "fashion",
+      "image": [
+        "https://m.media-amazon.com/images/I/41lPx0iuL+L._SY695_.jpg",
+        "https://m.media-amazon.com/images/I/71jQSFS+SWL._SX675_.jpg",
+        "https://m.media-amazon.com/images/I/61B9L8i3xGL._SY675_.jpg",
+        "https://m.media-amazon.com/images/I/61hF1KOTJWL._SY695_.jpg",
+        "https://m.media-amazon.com/images/I/61NxPcgGb8L._SY695_.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 280
+      },
+      "about": [
+        "Elegant and stylish handbag with premium craftsmanship.",
+        "Spacious compartments for better organization.",
+        "Durable material ensures long-lasting use.",
+        "Perfect for daily, office, or party use.",
+        "Available in multiple colors and designs."
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Men's Classic Oxford Shoes",
+      "price": 659,
+      "description": "Formal Oxford shoes crafted from high-quality leather.",
+      "category": "fashion",
+      "image": [
+        "https://m.media-amazon.com/images/I/61T+50wuWoL._SY675_.jpg",
+        "https://m.media-amazon.com/images/I/81ZFshHJDVL._SY675_.jpg",
+        "https://m.media-amazon.com/images/I/71nE2hq62fL._SY675_.jpg",
+        "https://m.media-amazon.com/images/I/61LggH14A6L._SY675_.jpg",
+        "https://m.media-amazon.com/images/I/61KCBYb8+qL._SY675_.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 250
+      },
+      "about": [
+        "Premium leather construction for durability and style.",
+        "Classic Oxford design suitable for formal occasions.",
+        "Comfortable insole for all-day wear.",
+        "Non-slip sole for added safety and stability.",
+        "Ideal for office, weddings, and formal gatherings."
+      ]
+    },
+    {
+      "id": "28",
+      "title": "Women's High Heel Sandals",
+      "price": 999,
+      "description": "Stylish and comfortable high heel sandals for any occasion.",
+      "category": "fashion",
+      "image": [
+        "https://assets.ajio.com/medias/sys_master/root/20230810/QxkE/64d4e971a9b42d15c9a161ff/-473Wx593H-466444695-white-MODEL.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230810/Km1j/64d4e977a9b42d15c9a1624e/-473Wx593H-466444695-white-MODEL5.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230810/VJKQ/64d4e977a9b42d15c9a16232/-78Wx98H-466444695-white-MODEL4.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230810/Km1j/64d4e977a9b42d15c9a1624e/-473Wx593H-466444695-white-MODEL5.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230810/Jo0C/64d4e977a9b42d15c9a1624b/-473Wx593H-466444695-white-MODEL6.jpg"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 230
+      },
+      "about": [
+        "Trendy high heel sandals for a fashionable look.",
+        "Comfortable and lightweight design.",
+        "Perfect for parties, weddings, and casual outings.",
+        "Non-slip sole for added safety.",
+        "Available in multiple colors and sizes."
+      ]
+    },
+    {
+      "id": "29",
+      "title": "Men's Hooded Sweatshirt",
+      "price": 599,
+      "description": "Soft and cozy hooded sweatshirt, perfect for layering.",
+      "category": "fashion",
+      "image": [
+        "https://assets.ajio.com/medias/sys_master/root/20250206/k8q3/67a4d4ec2960820c4967fc13/-78Wx98H-701173432-greymelange-MODEL.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20250206/9tDM/67a4d4ec2960820c4967fb90/-473Wx593H-701173432-greymelange-MODEL2.jpg"
+      ],
+      "rating": {
+        "rate": 4.4,
+        "count": 270
+      },
+      "about": [
+        "Made from soft and breathable fabric.",
+        "Cozy hooded design for extra warmth.",
+        "Perfect for winter or layering in colder weather.",
+        "Casual and stylish, suitable for all occasions.",
+        "Available in various colors and sizes."
+      ]
+    },
+    {
+      "id": "30",
+      "title": "Women's Elegant Earrings",
+      "price": 299,
+      "description": "Beautifully designed earrings with a touch of elegance.",
+      "category": "fashion",
+      "image": [
+        "https://assets.ajio.com/medias/sys_master/root/20231122/E5rk/655d2d79ddf77915199344f6/-473Wx593H-466816051-gold-MODEL3.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20231122/E5rk/655d2d79ddf77915199344f6/-473Wx593H-466816051-gold-MODEL3.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20231122/dRqG/655d2d79ddf77915199344fc/-473Wx593H-466816051-gold-MODEL4.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20231122/6Cd8/655d2d79ddf77915199344f1/-473Wx593H-466816051-gold-MODEL6.jpg"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 210
+      },
+      "about": [
+        "Elegant and stylish earrings for any occasion.",
+        "Beautiful craftsmanship with intricate detailing.",
+        "Perfect for gifting or personal wear.",
+        "Lightweight and comfortable for all-day use.",
+        "Available in multiple designs and finishes."
+      ]
+    },
+    {
+      "id": "31",
+      "title": "Men's Casual Sneakers",
+      "price": 599,
+      "description": "Lightweight and stylish sneakers for everyday wear.",
+      "category": "fashion",
+      "image": [
+        "https://assets.ajio.com/medias/sys_master/root/20241210/1iIG/675841b3c148fa1b302b0374/-473Wx593H-700783401-grey-MODEL3.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20241210/1iIG/675841b3c148fa1b302b0389/-1117Wx1400H-700783401-grey-MODEL3.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20241210/0Sc6/67585387c148fa1b302b66bf/-473Wx593H-700783401-grey-MODEL5.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20241210/4763/675854edc148fa1b302b6d05/-473Wx593H-700783401-grey-MODEL9.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 290
+      },
+      "about": [
+        "Durable and comfortable design.",
+        "Lightweight with a cushioned sole.",
+        "Stylish and versatile for any outfit.",
+        "Lace-up closure for a secure fit.",
+        "Ideal for casual wear and daily activities."
+      ]
+    },
+    {
+      "id": "32",
+      "title": "Women's Cozy Winter Scarf",
+      "price": 199,
+      "description": "Soft and warm knitted scarf for cold weather.",
+      "category": "fashion",
+      "image": [
+        "https://m.media-amazon.com/images/I/618Omic6itL._SY741_.jpg",
+        "https://m.media-amazon.com/images/I/51O5iE8YbzL._SY741_.jpg",
+        "https://m.media-amazon.com/images/I/51HkdjIUWrL.jpg",
+        "https://m.media-amazon.com/images/I/51oAYWaAxlL.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 200
+      },
+      "about": [
+        "Soft and cozy knitted fabric.",
+        "Perfect for winter and fall seasons.",
+        "Stylish and versatile accessory.",
+        "Available in multiple colors.",
+        "Easy to pair with any outfit."
+      ]
+    },
+    {
+      "id": "33",
+      "title": "Men's Formal Blazer",
+      "price": 899,
+      "description": "Elegant and stylish blazer for formal occasions.",
+      "category": "fashion",
+      "image": [
+        "https://assets.ajio.com/medias/sys_master/root/20230915/W0Wr/65046afdddf7791519dc3708/-78Wx98H-469546412-grey-MODEL.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230915/TC2V/650470a3ddf7791519dc571c/-473Wx593H-469546412-grey-MODEL4.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230915/QHH0/65047992ddf7791519dc8a44/-473Wx593H-469546412-grey-MODEL6.jpg"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 175
+      },
+      "about": [
+        "Tailored fit for a sharp look.",
+        "Made from high-quality fabric.",
+        "Suitable for formal and business events.",
+        "Available in multiple colors.",
+        "Lightweight and breathable material."
+      ]
+    },
+    {
+      "id": "34",
+      "title": "Women's Yoga Leggings",
+      "price": 499,
+      "description": "Stretchable and breathable leggings for workouts and casual wear.",
+      "category": "fashion",
+      "image": [
+        "https://assets.ajio.com/medias/sys_master/root/20241105/bTit/6729f61c260f9c41e8bfd665/-473Wx593H-443035601-ltpink-MODEL.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20241105/Piof/6729f775f9b8ef490b02da12/-473Wx593H-443035601-ltpink-MODEL5.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20241105/rH1W/6729f3f0f9b8ef490b029502/-473Wx593H-443035601-ltpink-MODEL6.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20241105/TdkB/6729f5d3260f9c41e8bfcd2a/-473Wx593H-443035601-ltpink-MODEL8.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 260
+      },
+      "about": [
+        "High-waist fit for extra support",
+        "Breathable and moisture-wicking fabric",
+        "Perfect for yoga, workouts, and casual wear",
+        "Soft and stretchable material",
+        "Available in multiple colors and sizes"
+      ]
+    },
+    {
+      "id": "35",
+      "title": "Men's Aviator Sunglasses",
+      "price": 499,
+      "description": "Classic aviator sunglasses with UV protection.",
+      "category": "fashion",
+      "image": [
+        "https://m.media-amazon.com/images/I/61Lg4tS+2eL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/612kGNQ3cuL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61DCS2LIDYL._SX679_.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20220421/GZlR/626151a5aeb26921af37de78/-473Wx593H-469186792-blacksmoke-MODEL5.jpg"
+      ],
+      "rating": {
+        "rate": 4.4,
+        "count": 230
+      },
+      "about": [
+        "Classic aviator frame design",
+        "UV protection for eye safety",
+        "Lightweight and durable metal frame",
+        "Stylish and suitable for all face shapes",
+        "Perfect for casual and outdoor activities"
+      ]
+    },
+    {
+      "id": "36",
+      "title": "Women's Boho Maxi Skirt",
+      "price": 459,
+      "description": "Beautifully patterned maxi skirt for a chic bohemian look.",
+      "category": "fashion",
+      "image": [
+        "https://assets.ajio.com/medias/sys_master/root/20250225/JemT/67bdffcf59f8353980f6282c/-473Wx593H-701127644-cream-MODEL.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20250225/M8V6/67bdffcf59f8353980f62813/-473Wx593H-701127644-cream-MODEL2.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20250225/pdod/67bdffcf59f8353980f62814/-473Wx593H-701127644-cream-MODEL4.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 190
+      },
+      "about": [
+        "Flowy and lightweight fabric",
+        "Bohemian-inspired design",
+        "Perfect for summer and casual wear",
+        "Elastic waistband for a comfortable fit",
+        "Easy to pair with different tops"
+      ]
+    },
+    {
+      "id": "37",
+      "title": "Men's Leather Belt",
+      "price": 299,
+      "description": "Durable and stylish genuine leather belt.",
+      "category": "fashion",
+      "image": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSjV5woBy4oML6hVDuIWfETPi_0P2wOneUdSXQfl9XLO4S9rmb5TUG2MQ_MyIjjL7x-guw2b5oHk-a8LhOszuju9jb3IlpnHCR99VV6NpHkql6l2WN39w",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRiypdLdulWeeVVcHU7zJykjM8utCWJyvyM37q-HIunmJG-CgNN6Mw0aJbk8QLt3LASUXMrMqzSFvc_oUbEhjjXnEJyNso6Q6U5EETp",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRUXE4r9-VUuj1474GCxF7bnfh2Z47FYeQ3SKh11OHLqW2Vl-jsLrBi0NFrOGSBCShYofJkcGuVuBkCrwwcjJE3tLozNb9cHLYvE0_V2wyZcaw7RZBPLo0",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRZsdq3RDkTkSNPOJGnYB-eBYpZfSoBBgia2up73ZyTPuKFhAhSn0YSh3UpsH3mAZnbEQlgzpyUJGAramGckT4Y4JkNIYj7e_IaJ-syvA"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 210
+      },
+      "about": [
+        "Made from 100% genuine leather.",
+        "Adjustable size with multiple holes.",
+        "Stylish and durable metal buckle.",
+        "Perfect for both casual and formal outfits.",
+        "Available in various colors."
+      ]
+    },
+    {
+      "id": "38",
+      "title": "Women's Stylish Sunglasses",
+      "price": 799,
+      "description": "Trendy and protective sunglasses for sunny days.",
+      "category": "fashion",
+      "image": [
+        "https://assets.ajio.com/medias/sys_master/root/20230808/5dqV/64d1dafceebac147fcb1cae7/-473Wx593H-463540828-brown-MODEL.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230808/ML8l/64d1dafceebac147fcb1caab/-473Wx593H-463540828-brown-MODEL2.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230808/hYzj/64d1dafceebac147fcb1caaa/-473Wx593H-463540828-brown-MODEL3.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 220
+      },
+      "about": [
+        "UV-protected lenses for eye safety.",
+        "Lightweight frame for comfortable wear.",
+        "Trendy design that complements any outfit.",
+        "Scratch-resistant lens coating.",
+        "Available in multiple shades."
+      ]
+    },
+    {
+      "id": "39",
+      "title": "Men's Running Joggers",
+      "price": 1299,
+      "description": "Comfortable and breathable joggers for sports and casual wear.",
+      "category": "fashion",
+      "image": [
+        "https://assets.ajio.com/medias/sys_master/root/20230825/vh5P/64e7cb32afa4cf41f580caf7/-473Wx593H-466493224-black-MODEL.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230825/sTzs/64e7cb32afa4cf41f580ca7a/-473Wx593H-466493224-black-MODEL2.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230825/jSYb/64e7cb32afa4cf41f580ca7c/-473Wx593H-466493224-black-MODEL3.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 240
+      },
+      "about": [
+        "Breathable fabric for all-day comfort.",
+        "Stylish and modern design.",
+        "Suitable for jogging, workouts, and casual wear.",
+        "Elastic waistband for a snug fit.",
+        "Available in multiple colors and sizes."
+      ]
+    },
+    {
+      "id": "40",
+      "title": "Women's Leather Boots",
+      "price": 859,
+      "description": "Elegant and durable leather boots for all occasions.",
+      "category": "fashion",
+      "image": [
+        "https://assets.ajio.com/medias/sys_master/root/20230919/3Ok6/6509c698ddf7791519e7c9c9/-473Wx593H-469537078-black-MODEL.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230919/Cj2M/6509b9cfddf7791519e781db/-473Wx593H-469537078-black-MODEL2.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230919/Cj2M/6509b9cfddf7791519e781db/-473Wx593H-469537078-black-MODEL2.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230919/WaAz/6509bc3dafa4cf41f5f19a82/-473Wx593H-469537078-black-MODEL5.jpg"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 260
+      },
+      "about": [
+        "Premium quality leather for durability.",
+        "Stylish and comfortable fit.",
+        "Non-slip sole for better grip.",
+        "Perfect for casual and formal wear.",
+        "Available in different colors."
+      ]
+    },
+    {
+      "id": "41",
+      "title": "Matte Liquid Lipstick - Red",
+      "price": 799,
+      "description": "Long-lasting matte finish lipstick with a smooth application.",
+      "category": "beautyproducts",
+      "image": [
+        "https://assets.ajio.com/medias/sys_master/root/20230801/AkCh/64c924eea9b42d15c98255c6/-473Wx593H-4937230640-29junglered-MODEL.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230801/wrAD/64c91a4ea9b42d15c980ff87/-473Wx593H-4937230640-29junglered-MODEL6.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230801/wrAD/64c91a4ea9b42d15c980ff87/-473Wx593H-4937230640-29junglered-MODEL6.jpg",
+        "https://assets.ajio.com/medias/sys_master/root/20230801/wrAD/64c91a4ea9b42d15c980ff87/-473Wx593H-4937230640-29junglered-MODEL6.jpg"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 500
+      },
+      "about": [
+        "Highly pigmented matte finish.",
+        "Long-lasting wear up to 12 hours.",
+        "Smooth and non-drying formula.",
+        "Available in multiple shades.",
+        "Easy to apply with precision brush."
+      ]
+    },
+    {
+      "id": "42",
+      "title": "Hydrating Face Moisturizer - 200ml",
+      "price": 599,
+      "description": " moisturizer for deep hydration and smooth skin.",
+      "category": "beautyproducts",
+      "image": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSJlqG8jrnjkhjSHVZMrK-xjMvOaWI0YMorw1UnfR2Q31zdn2YilvPgW0OlGKSgFD2Jm44c_XNnGpHU4y5L84hFNiYhVG3YTOdUrBbeFQXuO1-fm1y3kuocUg",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQcl85l2Sm0MUjSEIxeulbQ6ELIO3gq_63cFqms49Jf-e9x__zM91ez7Ijyp_ghY3ABj-tPtTciugb5jic9PDo9fOIUswPCjRP7gZmt",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRAsqSvlctpPU_n-0sp0VkaY-OGnHJKaFaFYENiFKpm0WRRiOPV3g83zO6PeDuIoOplNOGDEFpOUTvNN7pTdQbP-lBJ2Cxj_bsGdroCsic_3U3YDXbLq2c",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS-0-h-CKA7WckHPjPEiLg8XR3aBYBRFSOgoz1aOoqlIdMcN4afC22B0PK6SpLxe7o4N8mHqjpgf166RXAz_G39FTVq9pj2dWQB9tPJ",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ9zdzvAaAA56thickvVWJS2ElRgEIsrBdiQWxyLWrcn6Rd-VMZ1zyXbcYMIZnnjHuPrLLFSTJ1PJU0wYw906PQRW9g8ja9EPPNCMighg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 350
+      },
+      "about": [
+        "Deeply hydrates and nourishes the skin.",
+        "Lightweight and non-greasy formula.",
+        "Suitable for all skin types.",
+        "Infused with natural ingredients.",
+        "Dermatologically tested for safety."
+      ]
+    },
+    {
+      "id": "43",
+      "title": "Waterproof Mascara - Black",
+      "price": 299,
+      "description": "Smudge proof and volumizing mascara for bold lashes.",
+      "category": "beautyproducts",
+      "image": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQdNtsnxzk-OF_cfUIh6U0yTfp8dhA1TgoIsGKsG1lyZ4uqlG_qLlkd_sVHXIFo419WS-cTCVNqtwxivx9xbJjv-6wotIUaQCwzsSXkZwSSBOOCprUO-Q",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSCkzZz7OwRd7_PurYRCEnqmTrGylbjlKpJRf9Wz7u2tvK0qSXVRroVqjFMZPFFx8MXYrHM1ilb2xzZ5PPc3o-dHSMJa-DgwX-LQ8LsJeZ_tHR1u7CTag",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSiUW5JmwGWwLGF64K-5p7_X2c9DPtl7A80QDV-KYwFTQFYpLQ4cdndeXY_-EFV6JNEAPHYJRWQfnfs6pxORcAJd2Hw6OKhte_3HCEU28PIemBLNjv1Vd4",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR0cnrf0niVvv7DLqA0nPOLdMCA80U56ndSA0r763FHEiLIL9lanOIq9qSDFsBk9koUDgN_eMO_6bnKfYFcFcy9Ma_ebCNyx-uel3QElg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 400
+      },
+      "about": [
+        "Smudge-proof and waterproof formula.",
+        "Adds volume and length to lashes.",
+        "Easy to apply with precision brush.",
+        "Long-lasting effect for all-day wear.",
+        "Gentle on eyes, suitable for sensitive skin."
+      ]
+    },
+    {
+      "id": "44",
+      "title": "BB Cream - SPF 30",
+      "price": 259,
+      "description": "Lightweight BB cream with sun protection for a flawless look.",
+      "category": "beautyproducts",
+      "image": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLG9DXLrnZL6ffnBl7jcK4J5ie7cnqG3HYtGNKIlLsubz-Q5YEqOaWfX9HQuUowc9EiiZaVwBSAcbBuTWxQVvXBucHmclKoT1xFNHmTIqDD6jfNsXPRw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl_9xLmv24PfTvbQH0wDXZCCGqC93RaK5SfRQh3h5a6A_FuB1fcm4_1fPvyO4g6oBf_VvcXU3EoZ7pHRD2uxgHpoLJanxiUEt9oV6cQg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT5NwG-kTeTmdZcy34E-n1M3SSVr-BJ0MLzvzoZVcn6GU_Xm1SiPNpPigL4BSjTe2cIdRLZnnNm_nC4A9DKEh-BVvVDG_5dc0n_X033",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSt6MY0Z4Ja9LlmNGojUFdZ1rZ62_GpAypfsHeXXK1aMphjlcEBDftqlSxsUeTbVBrmDMyPPKVgaktEJmVueO10LJiGLbbQ8wAk5DIhn2GQMb3F_we4EsM"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 320
+      },
+      "about": [
+        "Lightweight and breathable formula.",
+        "Provides sun protection with SPF 30.",
+        "Evens out skin tone for a natural glow.",
+        "Moisturizes and nourishes the skin.",
+        "Ideal for daily use."
+      ]
+    },
+    {
+      "id": "45",
+      "title": "Matte Compact Powder",
+      "price": 199,
+      "description": "Oil-control compact powder for a smooth matte finish.",
+      "category": "beautyproducts",
+      "image": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRKONSagON1DbGjMclQHaUJtfS7kE3a_2S7YasW32RjiBUE-xphYsYciljb2EX462RpUVcg2V8xCS8jcV7D13R1u6wvwEXsCWAXism9znqv7uJGet0uKgV2FQ",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQqjBGSys1OILDa3NB0Mwq3jkeklNgEcWsqaROD0ZzIqqm-8ZSUihs-poDQh3Vcy2lklWXYbCFyam-Ertxl-ejb4Lv9hvb9mwTmjz0MmA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTmbuptADrMUcspNBZ0EphrSVhsM9vaGNKKImqo9fqnwptlEfjqyw6JBPyVeDPaTVbK90MBuFpOR05K5WqDtjM9EX-JTyfqqiVvk80Y",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSyMQ5-_RMbAsa0J95aSCw6S4xcgK5lREui8bmVfakdbaAAGye25XBWZ7XZXrzbL4PHzb3xJOMntgyuVDcMPLixeJcI5bosHtC-Klc7wg"
+      ],
+      "rating": {
+        "rate": 4.4,
+        "count": 280
+      },
+      "about": [
+        "Controls oil for a matte finish.",
+        "Lightweight and non-cakey formula.",
+        "Blends effortlessly on the skin.",
+        "Provides long-lasting coverage.",
+        "Perfect for touch-ups throughout the day."
+      ]
+    },
+    {
+      "id": "46",
+      "title": "Liquid Foundation - 30ml",
+      "price": 499,
+      "description": "Full coverage foundation for a natural and even skin tone.",
+      "category": "beautyproducts",
+      "image": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcReKvagSSNZQM1tr7dcqoNraa_8kkEh5aTkyyFd0CGgvL5Ans_ULYjYQWq8U5aw3wRz6gje4Y9JgWtHx2qqiCR-vwpwj6sIcVjPU0xk2EGoLuWtZrriHRc",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQrDG7I97lHK4r-EdDB4xgt3-D5Vo2DKixUIThNWlqj1IfW3XS0UbloTJV3s93q1csL5DshwtZQC_7c3grtQVf-bA9yyWdbN3cyxOq0",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg9SmsW2OSeR9CfdF2tuSyci9If7T-2xhGtmilrT1GD9LhZwQNZU-o9PG0L-V86MSzaiixrmOyRQlHKqsEqeQw173-cWYS1ut16IXGDomMn-eIKVt6KA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ7mo4U6jyRM2cGkFfWRQgKCwdcn0b3-pyHI-4Rem0FLm9Hc9MryHGOWl3b6KO-unw5n8Z-S8FS2XD_M1vvUGrhoJv-y477awRJLk-1QQ"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 360
+      },
+      "about": [
+        "Full coverage for a flawless finish.",
+        "Lightweight and blendable formula.",
+        "Evens out skin tone for a smooth look.",
+        "Long-lasting and non-greasy.",
+        "Suitable for all skin types."
+      ]
+    },
+    {
+      "id": "47",
+      "title": "Makeup Brush Set - 10 Pieces",
+      "price": 759,
+      "description": "Professional makeup brush set for flawless application.",
+      "category": "beautyproducts",
+      "image": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSmzGb2Ws7OD7esp7N9apsmk2qXQC_2Z6dGa7LPNdoI7zuFhzyCMNO906d0eJ61BbQNvgrSg4gr1h7IR0ekhTLsVKdnhZeUY3wioYBuUdcNvp4QuWSZrsI",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSU9Uk20PqQe68baF9tan4PGBVflWHA8ChCbJ3lT88pRzk3XuXrn0I_GXIYFoOMBZd0M-YVMOvWVdKVd5mvV5h5QaLA7AeZ71VwMlS8oIH8Cfjk8gYMvXA",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7n7YQwD63kPNUeXGJ3FEXcDkauOJimXMfgCzeHeYzSR3xuT6IdmxILbBf-owG9ZzoiTrEt8vEoZMwhubAjkoGwHBNzWvnjF8RE_2epmX_r9ETQNS-daU",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSMDRxmHyHxwBKJqzAyxVBRzbm7WFd5ITZJLTsSJTBdKB36BlKylVuEKDxMbiBLRBL5h5_ryGW0xYn3hTxjgVvIdiPWHWGDHPid5RX6"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 500
+      },
+      "about": [
+        "Includes 10 high-quality brushes for face and eye makeup.",
+        "Soft synthetic bristles for smooth blending.",
+        "Ergonomic handles for comfortable grip.",
+        "Perfect for both professional and personal use.",
+        "Suitable for all skin types."
+      ]
+    },
+    {
+      "id": "48",
+      "title": "Lip Balm - Natural Shea Butter",
+      "price": 149,
+      "description": "Moisturizing lip balm with natural ingredients.",
+      "category": "beautyproducts",
+      "image": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQYg4jHprXRxVBzNBpXQlB8HX4-AVyckH-J9QruGgMN7QWWau9aplLur6Cvfic8fU69nMo0qVySe-ojGK7_6XatFRwAuF7_rEbGIWpgGwB8ZnjeQwjAiaM",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ3uqLjMjJr2UR7KO_SHx6KXpnDgLYmyiNGzYKNWnfEFC_cbn_LGNOQxYNyMttZlK3Qui7UbENbUIrV0JlzBABuL7_YMqLXHeWLMI2-7A"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 420
+      },
+      "about": [
+        "Deeply hydrates and nourishes lips.",
+        "Made with natural shea butter for extra moisture.",
+        "Prevents chapped and dry lips.",
+        "Non-sticky and lightweight formula.",
+        "Suitable for daily use."
+      ]
+    },
+    {
+      "id": "49",
+      "title": "Eyebrow Pencil - Dark Brown",
+      "price": 89,
+      "description": "Smooth and long-lasting eyebrow pencil for defined brows.",
+      "category": "beautyproducts",
+      "image": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRDyHbhjdUkiQksdsOlk5IYcT2jtJr7ZGTD88mMrBaya0ktGcV-0JILi7NUGfpThs7a9tCAA1tfXzOUrfH_GpyTWD261rih10Srjduf4vaxiv2ga9_BkEcx8Q",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSQHiicnktBgZ6o-apNzl3WOLwUgmYR1gdPl-4HKgyiN5_JXhDuMymtKtVhTL049zejVONkysR-otc_56NcAZUvsaEo6NHsGaz4bu03I0aoe2D5LW-x3u0",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR8c8OP684eoBsrePjOOUILqCe0NU9xtkEZj10WLoY6UqtW_ZlNNh-TFY3Ni12uIQRFo1R_PiVEwRHLZfCQxZUxR1ce_T3lCyI85WVzcqEZQBST8X1Hq3A",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_EVcQCBWPzMpK0YQ-w533RbloXkB-F9lok8agZv191ftDKzkaNSzailkGTF9qe1gnco3lRQ5Ka75RkDQQV-M_5yqKBdL7YCm8J7nW"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 310
+      },
+      "about": [
+        "Defines and fills in brows with precision.",
+        "Smooth, glide-on formula for easy application.",
+        "Long-lasting and smudge-proof.",
+        "Enhances natural brow shape.",
+        "Perfect for both beginners and professionals."
+      ]
+    },
+    {
+      "id": "50",
+      "title": "Eye Shadow Palette - 12 Colors",
+      "price": 1599,
+      "description": "Highly pigmented eyeshadow palette for various looks.",
+      "category": "beautyproducts",
+      "image": [
+        "https://marscosmetics.in/cdn/shop/products/MG_6125-1.jpg?v=1648013955&width=1000",
+        "https://marscosmetics.in/cdn/shop/files/Artboard1_5.jpg?v=1719475457&width=200",
+        "https://marscosmetics.in/cdn/shop/files/Artboard2_7.jpg?v=1719475457&width=200",
+        "https://marscosmetics.in/cdn/shop/products/MG_6125-2_f89c9a23-1d52-438a-85c3-64f2a32a0c59.jpg?v=1719475457&width=200"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 450
+      },
+      "about": [
+        "12 highly pigmented shades for endless eye looks.",
+        "Blendable and buildable formula.",
+        "Matte, shimmer, and satin finishes.",
+        "Long-lasting wear without creasing.",
+        "Suitable for all skin tones."
+      ]
+    },
+    {
+      "id": "51",
+      "title": "Makeup Setting Spray - 100ml",
+      "price": 899,
+      "description": "Long-lasting setting spray to keep makeup fresh all day.",
+      "category": "beautyproducts",
+      "image": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS2Z5Odf8sLbNJT6DVznUap6ch6-Lx3n3TEvKSTyxHeoZM3dN3mD8Osc9YsOuBayjdO0zd-wUlPrW9g-rNzZ-Dx_RhrAr-JE4VmyDyvItOORTFWqo_ndHQooA",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT_yHMNQfO9j4iFrciVr-Cqws3d5wUn_bQJqMAxpsYTxrDO9rPu3uFelUY6wGqt_RDyXh9u8CSjL8271JUIXGV03Tv31c7F2EvDdnpd3ZXkMdWuHG8OZww",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS4Sjn2zvuxTCSJVKEPIo5ShuDE_dJufpi7SVH2zvwtJHMStzT-JZXk-ZMAtDMrvW0Lm1X91pdg1L9v3pn0lvjRD85KkqCnIkJNOcd5wAK5cBpn-7G-vxQ",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRINVWvTukoDuvvQ3E69BBzn09Ii4LeK6e7qJ8E-pULOa3xCwoXVlcrKV0xU7b-OvWmkSHEAZysgUyWrOKMc4awUQxUuR69i2R7WoJftw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRydV06XLWiWn4nDtZvD6bnFb3qc5vwHlPUCGFGhPdbi7dltXxARh2fYSMw-eKzBWLEP8rtwgY3UrPYhrkDaFBvN0ADoZfymUbkgCdFSyYWrAIEBPJ_xg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 390
+      },
+      "about": [
+        "Locks makeup in place for all-day wear.",
+        "Lightweight and non-sticky formula.",
+        "Prevents smudging, creasing, and fading.",
+        "Suitable for all skin types.",
+        "Keeps skin hydrated while setting makeup."
+      ]
+    },
+    {
+      "id": "52",
+      "title": "Liquid Highlighter - Gold",
+      "price": 759,
+      "description": "Glowing liquid highlighter for a radiant finish.",
+      "category": "beautyproducts",
+      "image": [
+        "https://manirambalwantrai.com/cdn/shop/files/mini_magick20240423-4545-fenbg_1000x.jpg?v=1713869126",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQb4-eTTBOvLH7IMC231Z1Cras_6gHFOLkT1rirk9F8TRU-RK605E9sFm5AK-9NwB9or8ITp_V92r0DjRSYN0rmxrwdMs6Bn1GqY3hTuzWYONDJleGKnAqe",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSVIoFryCoQ-B9VHhnA376BlOYDTyVVwL983BHkysUlVJUujw-ycVN4ic-THEjlPkNubSCpXiaHlD9_ZlPXl3RtucasM8Mp3HPu2RlT4gA",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcThxbJ1Gi_53AcN8LKvvwauS9DHHgcyKbFRQkH_XodDRu3P8qW8VIIfswohbLufsoEILM3xLRpzYAsOgzTMp4NDowBO1XYBjavdeOT5WMb0ToQlZYnd-bMI"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 330
+      },
+      "about": [
+        "Gives a natural, radiant glow.",
+        "Easy-to-blend liquid formula.",
+        "Lightweight and buildable coverage.",
+        "Perfect for face and body application.",
+        "Long-lasting and suitable for all skin types."
+      ]
+    },
+    {
+      "id": "53",
+      "title": "Nail Polish - Nude Pink",
+      "price": 859,
+      "description": "Chip-resistant nail polish with a smooth application.",
+      "category": "beautyproducts",
+      "image": [
+        "https://m.media-amazon.com/images/I/71b2qale1GL._SX466_.jpg",
+        "https://m.media-amazon.com/images/I/71BiKFGHnwL._SX466_.jpg",
+        "https://m.media-amazon.com/images/I/719l18YsDpL._SX466_.jpg",
+        "https://m.media-amazon.com/images/I/31O3SvTi6oL._SS40_.jpg",
+        "https://m.media-amazon.com/images/I/71OV-ex0iNL._SL1500_.jpg"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 290
+      },
+      "about": [
+        "Long-lasting and chip-resistant formula.",
+        "Smooth and even application.",
+        "Quick-drying and glossy finish.",
+        "Available in multiple shades.",
+        "Perfect for everyday wear."
+      ]
+    },
+    {
+      "id": "54",
+      "title": "Face Mask - Charcoal Detox",
+      "price": 186,
+      "description": "Purifying charcoal face mask for deep cleansing.",
+      "category": "beautyproducts",
+      "image": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTfOtE7Z-HewoyKWedn8xIimQkl-Fq-ZsGhHw6yf4-HGxURb4EG30xuLb883wGe24Y5iMhNEQa9YKb6TykJewUZwq4eXOrsUI7dXHzEwOdarGUH57E9eC-K",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRdgLIJb8LS4HOEbNgB-iIeiuU0ebMu2XiZbNEub6_Z8LTTxVO7nGqwdQT5mP6MeraTHrvWJObwjylrdQbh1ENl68i2N5R_fk_LfVXIBRb0jx5N26_8QFvQyg",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQZ7CCUmkfnBLE_vCTbu2uzmnwzATA9UGeNIEP1ly97uG2VAAxRBIuCr-jNBHITYwK4Pn7ugRhaGvvh74TleLFeKzGASfFj1F04udYPuB6KdnIQIMwuM8Z8iXg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 410
+      },
+      "about": [
+        "Removes impurities and excess oil.",
+        "Deep cleansing formula with activated charcoal.",
+        "Helps reduce acne and breakouts.",
+        "Leaves skin feeling fresh and smooth.",
+        "Suitable for all skin types."
+      ]
+    },
+    {
+      "id": "55",
+      "title": "Anti-Aging Night Cream - 50ml",
+      "price": 328,
+      "description": "Rich night cream for reducing fine lines and wrinkles.",
+      "category": "beautyproducts",
+      "image": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTyu457uBJ_wZVSy4uc9h8qb8pMjnp76tHowvKEKzrrP2U4yV5kzBjcTc1DXhRQwMt1W8jlGHoCnui3CpCV9lkeq6MJQAXTjnJonE7z5HvQoPUBoD7oTkbNgDY"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 340
+      },
+      "about": [
+        "Hydrates and nourishes the skin overnight.",
+        "Reduces fine lines and wrinkles.",
+        "Enhances skin elasticity and firmness.",
+        "Non-greasy and fast-absorbing formula.",
+        "Suitable for all skin types."
+      ]
+    },
+    {
+      "id": "56",
+      "title": "Makeup Remover Wipes - 25 Pack",
+      "price": 75,
+      "description": "Gentle and effective wipes to remove makeup easily.",
+      "category": "beautyproducts",
+      "image": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRF5MGP2MOMmGDouo9GwnuwpE_T3vTUam7QuLkdJHtyxyYd8XtupgvoiJGfXi9CdRGz81m_nQH3xRXdknhfvFHqqyjPZEbiaz4MsXXjr2KCVYFvO_LA2A7B"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 300
+      },
+      "about": [
+        "Removes makeup and dirt effectively.",
+        "Gentle on the skin and suitable for all types.",
+        "Infused with moisturizing ingredients.",
+        "Alcohol-free and dermatologically tested.",
+        "Convenient for travel and on-the-go use."
+      ]
+    },
+    {
+      "id": "57",
+      "title": "Cleansing Face Wash - Aloe Vera",
+      "price": 885,
+      "description": "Refreshing face wash with aloe vera for clear skin.",
+      "category": "beautyproducts",
+      "image": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSeWIxic5RissF5egI4Q2CVvBxnZ_2X6tBJ3ep9ALK4JzUstOlwfVgILAN_2DW9Zu2GLumcXbcuLyV_NADUrdfjIxgloxwDyssDGg5n22HMWZdZ_EA1T6YbPMU"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 320
+      },
+      "about": [
+        "Gently cleanses and refreshes the skin.",
+        "Infused with natural aloe vera extracts.",
+        "Removes dirt, oil, and impurities.",
+        "Leaves skin soft, hydrated, and glowing.",
+        "Suitable for daily use and all skin types."
+      ]
+    },
+    {
+      "id": "58",
+      "title": "Exfoliating Body Scrub - Coconut",
+      "price": 699,
+      "description": "Gently exfoliating body scrub with coconut extracts.",
+      "category": "beautyproducts",
+      "image": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ1w03SSfgBqRe8GpI44aInuya8TN4Z7DAbKyS5lJRxdqZtgucOlM_25VcAzHvW07ZTTF5taDC4kOsGeQqkl09KmYrmt_XY3NutYCnnupXoS_y9n2D4dQz5"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 290
+      },
+      "about": [
+        "Gently exfoliates to remove dead skin cells.",
+        "Infused with nourishing coconut extracts.",
+        "Leaves skin smooth and moisturized.",
+        "Refreshing fragrance for a spa-like experience.",
+        "Suitable for all skin types."
+      ]
+    },
+    {
+      "id": "59",
+      "title": "Tinted Lip Gloss - Peach",
+      "price": 295,
+      "description": "Glossy lip tint with a hint of peach color.",
+      "category": "beautyproducts",
+      "image": [
+        "https://m.media-amazon.com/images/I/61+Fdi6IudL.jpg",
+        "https://m.media-amazon.com/images/I/61Izm8UlbtL.jpg",
+        "https://m.media-amazon.com/images/I/61iYX1usIEL.jpg",
+        "https://m.media-amazon.com/images/I/518+UiZz0IL.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 280
+      },
+      "about": [
+        "Adds a glossy shine with a subtle peach tint.",
+        "Lightweight and non-sticky formula.",
+        "Hydrates lips for a smooth feel.",
+        "Long-lasting color with a natural finish.",
+        "Perfect for everyday wear."
+      ]
+    },
+    {
+      "id": "60",
+      "title": "Hair Serum - Frizz Control",
+      "price": 997,
+      "description": "Silky hair serum to control frizz and add shine.",
+      "category": "beautyproducts",
+      "image": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSfHsmvlf4jOq2eFtGzZz-sXFrbGMjEM_XeNvMm3-2leYq-JPxBRfDu0RoW3NtSlb8Q6qCEEIgkNV3wCDjNRcbMlSBrvoki7f7eteu-7iyjk1EF4QHd2w_2UA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRDG_BLUYvC-NSheFt2VFytxz75_TWAv7tqVuBkBU95naSRN_Y0Gdxawasq0XjvogGBv38vXfbV8-930xzkhRU9t4VKTZw5RMD_oGyXdiQTXD_SleH9Gw",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIt1aypG7KqiVb_yin2ZRSe0QzLfiKMOIU5R6b17psZ-KskfKHMEvw4fvhAvj9zoyXsFKexI1yax6OksgCgjPr3Nq1mgtQ0FlHhVfpsw2TBR2WpziNpWs",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSRnjiZ_q--vyODKdFmsdF80Bs-W4jNWWe1o7Ab6Ja_9HzO1ZnIGGNf7GYF1bP0FCzhpDvaeUabm4cF5WYVDhMhL60RF-Z3VYaS8jHd4TfXb60WusNDYww"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 350
+      },
+      "about": [
+        "Smooths frizz and adds shine to hair.",
+        "Lightweight, non-greasy formula.",
+        "Protects hair from heat and humidity.",
+        "Infused with natural oils for deep nourishment.",
+        "Suitable for all hair types."
+      ]
+    },
+    {
+      "id": "61",
+      "title": "Smart LED TV 55-inch 4K UHD",
+      "price": 69999,
+      "description": "55-inch 4K UHD Smart TV with HDR support and built-in apps.",
+      "category": "appliances",
+      "image": [
+        "https://www.cinegold.in/cdn/shop/files/55inch.jpg?v=1712918956",
+        "https://www.cinegold.in/cdn/shop/files/2_24c24802-a916-48c9-b17d-7ef071fe20dd.jpg?v=1712918956",
+        "https://www.cinegold.in/cdn/shop/files/5.jpg?v=1712918956",
+        "https://www.cinegold.in/cdn/shop/files/3_58ad46d5-b833-41a2-8961-b1224017577a.jpg?v=1712918956"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 280
+      },
+      "about": [
+        "Ultra HD 4K resolution for stunning visuals.",
+        "HDR support for vibrant colors and contrast.",
+        "Built-in smart apps for seamless streaming.",
+        "Voice control and multiple connectivity options.",
+        "Slim and stylish design for modern homes."
+      ]
+    },
+    {
+      "id": "62",
+      "title": "Robot Vacuum Cleaner ",
+      "price": 199999,
+      "description": "Automatic vacuum cleaner with powerful suction and smart mapping.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/61SMs1Bc0sL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71TGq9Nl6CL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61B9Px6tY0L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71-F0Q3Tn7L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61S-Wu0E-9L._SL1500_.jpg"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 400
+      },
+      "about": [
+        "Advanced smart mapping technology.",
+        "Powerful suction for deep cleaning.",
+        "Works on carpets and hard floors.",
+        "Self-charging and auto-scheduling features.",
+        "Compatible with voice assistants."
+      ]
+    },
+    {
+      "id": "63",
+      "title": "Air Purifier with HEPA Filter",
+      "price": 129999,
+      "description": "Advanced air purifier with HEPA filter for clean and fresh air.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/51GxUwbJiWL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/612nmm4JqhL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61-wB11AEgL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61XTxgCcBeL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 350
+      },
+      "about": [
+        "Removes 99.97% of airborne particles.",
+        "HEPA filter for superior air purification.",
+        "Reduces allergens, dust, and odors.",
+        "Silent operation with energy efficiency.",
+        "Ideal for homes and offices."
+      ]
+    },
+    {
+      "id": "64",
+      "title": "Smart Microwave Oven - 25L",
+      "price": 149899,
+      "description": "25L microwave oven with smart sensor technology for precise cooking.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/71X4oAhYufL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71i+y28Vk3L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71cwnCfQq8L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61heo6T9ZFL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71Rl0a0IYzL._SL1500_.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 290
+      },
+      "about": [
+        "Smart sensor technology for precise cooking.",
+        "Multiple pre-set cooking modes.",
+        "Energy-efficient and powerful performance.",
+        "Easy-to-clean interior with durable design.",
+        "Compact and stylish for modern kitchens."
+      ]
+    },
+    {
+      "id": "65",
+      "title": "Cordless Handheld Vacuum Cleaner",
+      "price": 8999,
+      "description": "Lightweight and powerful  vacuum for quick cleaning.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/511rktMqb9L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/41CFiIV8jhL.jpg",
+        "https://m.media-amazon.com/images/I/41xLodkkfGL._SS100_.jpg",
+        "https://m.media-amazon.com/images/I/61T6R41WZyL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/31gsVqJbSBL.jpg"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 330
+      },
+      "about": [
+        "Compact and lightweight design.",
+        "Strong suction power for quick cleaning.",
+        "Cordless operation for easy maneuverability.",
+        "Rechargeable battery with long-lasting usage.",
+        "Ideal for home, car, and office cleaning."
+      ]
+    },
+    {
+      "id": "66",
+      "title": "Digital Air Fryer - 5.5L",
+      "price": 17999,
+      "description": "Oil-free air fryer with digital touch controls for healthy frying.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/71FCj05wWqL._SY879_.jpg",
+        "https://m.media-amazon.com/images/I/61gMQOyI3gL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61Cf12BPcDL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/614ONv2TmRL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 450
+      },
+      "about": [
+        "Healthy frying with little to no oil.",
+        "Digital touch controls for easy use.",
+        "Large 5.5L capacity for family-sized meals.",
+        "Rapid air circulation technology for crispy texture.",
+        "Easy to clean with a removable non-stick basket."
+      ]
+    },
+    {
+      "id": "67",
+      "title": "Espresso Coffee Machine",
+      "price": 24999,
+      "description": "Professional espresso machine for café style coffee at home.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/61zdqgKDffL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61aIGn3INCL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61G6lT7IFAL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61tSGcuJZjL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 380
+      },
+      "about": [
+        "Makes professional-quality espresso at home.",
+        "Built-in milk frother for cappuccinos and lattes.",
+        "Easy-to-use control panel.",
+        "Durable stainless steel design.",
+        "Large water tank for multiple brews."
+      ]
+    },
+    {
+      "id": "68",
+      "title": "Smart Refrigerator - 500L",
+      "price": 299999,
+      "description": "500L smart fridge with energy-saving technology and touch display.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/61Oyvl71xyL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71MOw3I7DoL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61mUTQJJD-L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/713TOsoPEYL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.9,
+        "count": 420
+      },
+      "about": [
+        "Smart cooling technology for optimal freshness.",
+        "Energy-efficient design saves power.",
+        "Touchscreen control panel.",
+        "Large 500L storage capacity.",
+        "Modern stainless steel finish."
+      ]
+    },
+    {
+      "id": "69",
+      "title": "Dishwasher with Auto Dry",
+      "price": 69999,
+      "description": "Energy-efficient dishwasher with auto dry and silent operation.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/61vH0gpEqIL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/419idwuxqIL.jpg",
+        "https://m.media-amazon.com/images/I/41ecRlbNnvL.jpg",
+        "https://m.media-amazon.com/images/I/61sXhAYYUQL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 340
+      },
+      "about": [
+        "Auto dry technology for spotless dishes.",
+        "Silent operation for a noise-free experience.",
+        "Energy-efficient performance.",
+        "Multiple wash programs for different needs.",
+        "Spacious interior for large loads."
+      ]
+    },
+    {
+      "id": "70",
+      "title": "Portable Air Conditioner - 12000 BTU",
+      "price": 9999,
+      "description": "Portable air conditioner with remote control and dehumidifier mode.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/71Tng-AJPJL._SX466_.jpg",
+        "https://m.media-amazon.com/images/I/71cMZqhwSSL._SX466_.jpg",
+        "https://m.media-amazon.com/images/I/71lybg4z7AL._SX466_.jpg",
+        "https://m.media-amazon.com/images/I/715daI6IYiL._SX466_.jpg"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 370
+      },
+      "about": [
+        "12000 BTU cooling power for effective cooling.",
+        "Remote control for easy operation.",
+        "Dehumidifier mode reduces excess moisture.",
+        "Compact and portable design.",
+        "Energy-efficient cooling."
+      ]
+    },
+    {
+      "id": "71",
+      "title": "Smart Washing Machine - 10kg",
+      "price": 44999,
+      "description": "10kg front-load washing machine with AI-powered wash programs.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/71vtcziDJYL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61QZNtB8+KL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71Wd-9Rr6XL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71cNNDaC+aL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 390
+      },
+      "about": [
+        "AI-powered wash programs for optimal cleaning.",
+        "Large 10kg capacity for family use.",
+        "Energy-efficient operation.",
+        "Quiet and vibration-free performance.",
+        "Smart connectivity for remote control."
+      ]
+    },
+    {
+      "id": "72",
+      "title": "Induction Cooktop - 2000W",
+      "price": 7999,
+      "description": "Energy efficient induction cooktop with touch controls.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/71HUDFmuX+L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81JX0ER4LQL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/811FdEpdlLL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81JPB2-BZML._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 310
+      },
+      "about": [
+        "2000W power for fast cooking.",
+        "Touch controls for easy use.",
+        "Energy-efficient and eco-friendly.",
+        "Multiple heat settings for various dishes.",
+        "Sleek and modern design."
+      ]
+    },
+    {
+      "id": "73",
+      "title": "Electric Kettle - 1.7L",
+      "price": 3999,
+      "description": "Fast-boiling electric kettle with auto shut-off and stainless steel body.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/61SBF33TizS._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71Dx7MZ0JZL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71iYHiMADwL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81Ig2HRSI-L._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 280
+      },
+      "about": [
+        "Fast boiling with 1.7L capacity.",
+        "Auto shut-off for safety.",
+        "Durable stainless steel construction.",
+        "Cool-touch handle for easy pouring.",
+        "Ideal for tea, coffee, and hot water."
+      ]
+    },
+    {
+      "id": "74",
+      "title": "Rice Cooker - 1.8L",
+      "price": 4999,
+      "description": "Multi-functional rice cooker with auto warm feature.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/312Ow6VjNqL._SX300_SY300_QL70_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81WhlidW4RL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/917j1rlgqxL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81WU-asp0cL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 260
+      },
+      "about": [
+        "1.8L capacity for cooking rice, soups, and more.",
+        "Auto warm function keeps food warm.",
+        "Non-stick inner pot for easy cleaning.",
+        "Energy-efficient and user-friendly design.",
+        "Ideal for small to medium families."
+      ]
+    },
+    {
+      "id": "75",
+      "title": "Smart Ceiling Fan with Remote",
+      "price": 13999,
+      "description": "Energy-efficient ceiling fan with remote control and LED light.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/51kPEUNq+QL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71i8qBNu-HL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71BKlBm5zvL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 290
+      },
+      "about": [
+        "Remote-controlled ceiling fan with LED light.",
+        "Energy-efficient motor for silent operation.",
+        "Multiple speed settings for comfort.",
+        "Modern design enhances home decor.",
+        "Ideal for bedrooms, living rooms, and offices."
+      ]
+    },
+    {
+      "id": "76",
+      "title": "Toaster - 2 Slice",
+      "price": 2999,
+      "description": "Compact and efficient toaster with adjustable browning control.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/51x15vgzI2L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/518RCcTfeAL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61ztcKL2-OL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61aabhzsLXL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.4,
+        "count": 230
+      },
+      "about": [
+        "2-slice toaster with adjustable browning control.",
+        "Wide slots accommodate different bread sizes.",
+        "Auto shut-off for safety.",
+        "Removable crumb tray for easy cleaning.",
+        "Compact design saves kitchen space."
+      ]
+    },
+    {
+      "id": "77",
+      "title": "Steam Iron - 1800W",
+      "price": 5999,
+      "description": "High-power steam iron with ceramic soleplate for smooth ironing.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/510P+0DhnUL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71nqqgrz0IL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/618jyd+j66L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61MMYkGeo0L._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 300
+      },
+      "about": [
+        "1800W power for efficient steam ironing.",
+        "Ceramic soleplate for smooth gliding.",
+        "Variable steam control for all fabric types.",
+        "Self-cleaning function for durability.",
+        "Ergonomic handle for comfortable grip."
+      ]
+    },
+    {
+      "id": "78",
+      "title": "Blender & Smoothie Maker",
+      "price": 8999,
+      "description": "High-speed blender for smoothies, soups, and shakes.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/71PkRff5mdL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/616zWrvE6BL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71XhtcD47XL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71joF5km66L._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 310
+      },
+      "about": [
+        "High-speed blending for smooth textures.",
+        "Large-capacity jar for multiple servings.",
+        "Durable stainless steel blades.",
+        "Multiple speed settings for versatile use.",
+        "Perfect for smoothies, soups, and shakes."
+      ]
+    },
+    {
+      "id": "79",
+      "title": "Dehumidifier - 30 Pint",
+      "price": 21999,
+      "description": "Efficient dehumidifier for removing excess moisture from the air.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/51xeQkA8+QL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61qRTYmNoCL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61DDtaDIYWL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51kNZAKxx4L._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 270
+      },
+      "about": [
+        "Removes excess moisture from the air.",
+        "30-pint capacity for large rooms.",
+        "Energy-efficient operation.",
+        "Quiet performance for home or office use.",
+        "Easy-to-clean filter for maintenance."
+      ]
+    },
+    {
+      "id": "80",
+      "title": "Electric Griddle with Non-Stick Surface",
+      "price": 9999,
+      "description": "Spacious electric griddle for cooking pancakes, bacon, and more.",
+      "category": "appliances",
+      "image": [
+        "https://m.media-amazon.com/images/I/61IdylEIrRL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61lQYBR-qnL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61cbQ+2cDGL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71fb+Em+7kL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 280
+      },
+      "about": [
+        "Large non-stick surface for even cooking.",
+        "Ideal for pancakes, bacon, and grilled foods.",
+        "Adjustable temperature control.",
+        "Drip tray for easy cleanup.",
+        "Durable design for long-lasting use."
+      ]
+    },
+    {
+      "id": "81",
+      "title": "Smartphone XYZ - 128GB, 5G",
+      "price": 89999,
+      "description": "Flagship smartphone with 5G support, 128GB storage, and triple-camera setup.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/61sY8BGOyEL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/714eEDHLrBL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71BSOj+JJlL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 600
+      },
+      "about": [
+        "5G-enabled for super-fast connectivity.",
+        "128GB storage for ample space.",
+        "Triple-camera setup for high-quality photos.",
+        "Powerful processor for smooth performance.",
+        "Long-lasting battery with fast charging."
+      ]
+    },
+    {
+      "id": "82",
+      "title": "Budget Smartphone ABC - 64GB",
+      "price": 29999,
+      "description": "Affordable smartphone with 64GB storage and high-resolution display.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/41BDuOe5P3L._SX300_SY300_QL70_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81UZrN9A1kL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71clQJ+OZPL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.3,
+        "count": 450
+      },
+      "about": [
+        "64GB storage for essential apps and media.",
+        "High-resolution display for sharp visuals.",
+        "Reliable performance for daily tasks.",
+        "Long battery life for extended usage.",
+        "Budget-friendly with great features."
+      ]
+    },
+    {
+      "id": "83",
+      "title": "iPhone 14 Pro - 256GB",
+      "price": 109999,
+      "description": "Apple iPhone 14 Pro with 256GB storage, A16 Bionic chip, and ProMotion display.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/61cwywLZR-L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51lRv8lbOVL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/711JE+dD1KL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81LtCGVH+dL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.9,
+        "count": 800
+      },
+      "about": [
+        "256GB storage for large media and apps.",
+        "A16 Bionic chip for ultimate performance.",
+        "ProMotion display for smooth scrolling.",
+        "Advanced triple-camera system.",
+        "Long battery life and fast charging."
+      ]
+    },
+    {
+      "id": "84",
+      "title": "iPhone 13 - 128GB",
+      "price": 79999,
+      "description": "Apple iPhone 13 with 128GB storage, A15 Bionic chip, and dual-camera system.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/71GLMJ7TQiL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61NTwRtdzfL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71G44HUh7yL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81otRqY0XXL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 700
+      },
+      "about": [
+        "128GB storage for your apps and photos.",
+        "A15 Bionic chip for fast performance.",
+        "Dual-camera system for stunning pictures.",
+        "Super Retina XDR display for vibrant visuals.",
+        "iOS updates for years of support."
+      ]
+    },
+    {
+      "id": "85",
+      "title": "Samsung Galaxy S23 Ultra - 512GB",
+      "price": 119999,
+      "description": "Samsung Galaxy S23 Ultra with 512GB storage and 200MP camera.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/71OXmy3NMCL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71Mgmay88QL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71g0eynUajL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81uwIQV-4VL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.9,
+        "count": 850
+      },
+      "about": [
+        "512GB storage for extensive data needs.",
+        "200MP ultra-resolution camera for crystal-clear shots.",
+        "Snapdragon 8 Gen 2 processor for flagship performance.",
+        "120Hz Dynamic AMOLED 2X display for smooth visuals.",
+        "5000mAh battery with 45W fast charging."
+      ]
+    },
+    {
+      "id": "86",
+      "title": "Samsung Galaxy A53 - 128GB",
+      "price": 44999,
+      "description": "Samsung Galaxy A53 with 128GB storage and Super AMOLED display.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/71ZrPkGgcLL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81uu3CcTfFL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81vfeH2mKmL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71ZIjPT1SSL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 500
+      },
+      "about": [
+        "128GB storage for all your daily essentials.",
+        "6.5-inch Super AMOLED display for vibrant colors.",
+        "Exynos 1280 processor for smooth multitasking.",
+        "64MP quad-camera setup for detailed photos.",
+        "5000mAh battery with 25W fast charging."
+      ]
+    },
+    {
+      "id": "87",
+      "title": "Google Pixel 7 Pro - 256GB",
+      "price": 89999,
+      "description": "Google Pixel 7 Pro with 256GB storage and AI-powered camera features.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/31wZZTIQ0uL.jpg",
+        "https://m.media-amazon.com/images/I/31ubZWqHwcL.jpg",
+        "https://m.media-amazon.com/images/I/41aQG5qs3ZL.jpg"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 750
+      },
+      "about": [
+        "256GB storage for ample space.",
+        "AI-powered camera with advanced photography features.",
+        "Google Tensor G2 chip for enhanced performance.",
+        "120Hz LTPO OLED display for fluid visuals.",
+        "5000mAh battery with 30W fast charging."
+      ]
+    },
+    {
+      "id": "88",
+      "title": "Google Pixel 6a - 128GB",
+      "price": 34999,
+      "description": "Google Pixel 6a with 128GB storage and Titan M2 security chip.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/61HOVUhvc+L._SX466_.jpg",
+        "https://m.media-amazon.com/images/I/41qkeXZyPlL._SX466_.jpg",
+        "https://m.media-amazon.com/images/I/7186PQtolsL._SL1500_.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 600
+      },
+      "about": [
+        "128GB storage for essential apps and files.",
+        "Titan M2 security chip for enhanced safety.",
+        "Google Tensor processor for optimized performance.",
+        "6.1-inch OLED display for a vivid experience.",
+        "4410mAh battery with 18W fast charging."
+      ]
+    },
+    {
+      "id": "89",
+      "title": "OnePlus 11 - 256GB",
+      "price": 74999,
+      "description": "OnePlus 11 with Snapdragon 8 Gen 2, 256GB storage, and fast charging.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/613SAOPmLeL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/613SAOPmLeL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61Feppm5D+L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61QdKeP+BtL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 550
+      },
+      "about": [
+        "256GB storage for extensive multimedia needs.",
+        "Snapdragon 8 Gen 2 processor for top performance.",
+        "120Hz Fluid AMOLED display for smooth scrolling.",
+        "50MP Hasselblad camera for stunning photography.",
+        "5000mAh battery with 100W fast charging."
+      ]
+    },
+    {
+      "id": "90",
+      "title": "OnePlus Nord 2T - 128GB",
+      "price": 39999,
+      "description": "OnePlus Nord 2T with 128GB storage and 80W fast charging.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/616wnQmPQ-L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/611DUOU0OML._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51kSMKsOB3L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71zJpaFqtwL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 480
+      },
+      "about": [
+        "128GB storage for everyday use.",
+        "MediaTek Dimensity 1300 processor for efficiency.",
+        "90Hz AMOLED display for smooth visuals.",
+        "50MP AI camera for stunning shots.",
+        "4500mAh battery with 80W SuperVOOC charging."
+      ]
+    },
+    {
+      "id": "91",
+      "title": "Xiaomi 13 Pro - 256GB",
+      "price": 89999,
+      "description": "Xiaomi 13 Pro with 256GB storage and Leica co-engineered camera.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/819sWoSDFRL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/819gwhFz3ML._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/812xRWL2E+L._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 650
+      },
+      "about": [
+        "256GB storage for ample space.",
+        "Leica co-engineered camera for professional photography.",
+        "Snapdragon 8 Gen 2 processor for smooth performance.",
+        "120Hz AMOLED display for a fluid experience.",
+        "67W fast charging for quick power-ups."
+      ]
+    },
+    {
+      "id": "92",
+      "title": "Xiaomi Redmi Note 12 - 128GB",
+      "price": 24999,
+      "description": "Xiaomi Redmi Note 12 with 128GB storage and 120Hz AMOLED display.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/81weRj535kL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81yz28eMA6L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71CgI7hYXGL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.4,
+        "count": 550
+      },
+      "about": [
+        "128GB storage for your apps and media.",
+        "120Hz AMOLED display for smooth visuals.",
+        "Snapdragon 695 processor for efficient performance.",
+        "5000mAh battery for all-day use.",
+        "50MP AI camera for clear photos."
+      ]
+    },
+    {
+      "id": "93",
+      "title": "Oppo Reno 8 Pro - 256GB",
+      "price": 67999,
+      "description": "Oppo Reno 8 Pro with 256GB storage and ultra-clear night camera.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/612UANCQFyL._SY606_.jpg",
+        "https://m.media-amazon.com/images/I/41KsXBaatVL._SY606_.jpg",
+        "https://m.media-amazon.com/images/I/51YcgRAZRML._SY606_.jpg",
+        "https://m.media-amazon.com/images/I/51JQpjsddJL._SY606_.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 520
+      },
+      "about": [
+        "256GB storage for all your needs.",
+        "Ultra-clear night camera for low-light shots.",
+        "Dimensity 8100-Max processor for seamless multitasking.",
+        "120Hz AMOLED display for immersive visuals.",
+        "80W fast charging for quick recharges."
+      ]
+    },
+    {
+      "id": "94",
+      "title": "Vivo V25 Pro - 128GB",
+      "price": 49999,
+      "description": "Vivo V25 Pro with 128GB storage and color-changing glass back.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/61p-ILXrN4L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61fh194FwZL._SY879_.jpg",
+        "https://m.media-amazon.com/images/I/61YKWL0b9PL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.5,
+        "count": 480
+      },
+      "about": [
+        "128GB storage for essential files.",
+        "Color-changing glass back for a unique look.",
+        "MediaTek Dimensity 1300 processor for efficiency.",
+        "64MP OIS night camera for stunning photos.",
+        "66W fast charging for quick power-ups."
+      ]
+    },
+    {
+      "id": "95",
+      "title": "Realme GT Neo 3 - 150W Edition",
+      "price": 59999,
+      "description": "Realme GT Neo 3 with 150W fast charging and 256GB storage.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/81WV508GPQL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81IKo+8SMCL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81gGgMxhnsL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 560
+      },
+      "about": [
+        "256GB storage for extensive apps and media.",
+        "150W fast charging for ultra-fast recharges.",
+        "Dimensity 8100 processor for high-speed performance.",
+        "120Hz AMOLED display for smooth visuals.",
+        "50MP Sony IMX766 OIS camera for pro photography."
+      ]
+    },
+    {
+      "id": "96",
+      "title": "Motorola Edge 30 Ultra - 256GB",
+      "price": 79999,
+      "description": "Motorola Edge 30 Ultra with 200MP camera and 144Hz display.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/71XZP2Hm+5L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81xFofqRKrL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81Nxzs3NK3L._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      },
+      "about": [
+        "256GB storage for large file storage.",
+        "200MP ultra-resolution camera for breathtaking shots.",
+        "Snapdragon 8+ Gen 1 processor for power efficiency.",
+        "144Hz pOLED display for a seamless experience.",
+        "125W fast charging for quick top-ups."
+      ]
+    },
+    {
+      "id": "97",
+      "title": "Asus ROG Phone 6 - 512GB",
+      "price": 109999,
+      "description": "Asus ROG Phone 6 with 512GB storage, 165Hz display, and gaming triggers.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/51jAxBrJCtL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71Wc5RkyHeL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61PPNTxXbQL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/717Bd6Ah1fL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.9,
+        "count": 600
+      },
+      "about": [
+        "512GB storage for massive game libraries.",
+        "165Hz AMOLED display for ultra-smooth gaming.",
+        "Snapdragon 8+ Gen 1 processor for top-tier performance.",
+        "AirTrigger 6 technology for precise gaming controls.",
+        "6000mAh battery with 65W fast charging."
+      ]
+    },
+    {
+      "id": "98",
+      "title": "Nothing Phone (1) - 256GB",
+      "price": 54999,
+      "description": "Nothing Phone (1) with transparent back and Glyph LED interface.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/41O24FeFP-L._SX300_SY300_QL70_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71jME4FPsdL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.6,
+        "count": 450
+      },
+      "about": [
+        "256GB storage for all your needs.",
+        "Unique transparent back design with Glyph LED interface.",
+        "Snapdragon 778G+ processor for reliable performance.",
+        "120Hz OLED display for smooth navigation.",
+        "50MP dual-camera system for high-quality photos."
+      ]
+    },
+    {
+      "id": "99",
+      "title": "Sony Xperia 1 IV - 256GB",
+      "price": 129999,
+      "description": "Sony Xperia 1 IV with 4K HDR OLED display and pro camera system.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/61IfH6+sbYL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/41MEzCD9xKL._SY879_.jpg",
+        "https://m.media-amazon.com/images/I/512wSjnR2tL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51hyZCzuvaL._SL1500_.jpg"
+      ],
+      "rating": {
+        "rate": 4.8,
+        "count": 480
+      },
+      "about": [
+        "256GB storage for high-resolution media and apps.",
+        "4K HDR OLED display for an unmatched viewing experience.",
+        "Triple-lens camera with real-time eye-tracking autofocus.",
+        "Snapdragon 8 Gen 1 processor for smooth operation.",
+        "IP68 water and dust resistance for durability."
+      ]
+    },
+    {
+      "id": "100",
+      "title": "Samsung Galaxy Z Flip 4 - 256GB",
+      "price": 99999,
+      "description": "Samsung Galaxy Z Flip 4 with foldable display and compact design.",
+      "category": "mobiles",
+      "image": [
+        "https://m.media-amazon.com/images/I/61O70Uca38L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61bZgRF0V1L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61bZgRF0V1L._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61v6OSavWTL._SX679_.jpg"
+      ],
+      "rating": {
+        "rate": 4.7,
+        "count": 520
+      },
+      "about": [
+        "256GB storage for seamless multitasking.",
+        "Foldable Dynamic AMOLED 2X display for a unique experience.",
+        "Snapdragon 8+ Gen 1 processor for fast performance.",
+        "IPX8 water resistance for added durability.",
+        "Super Fast Charging for quick top-ups."
+      ]
+    }
+  ]
+}

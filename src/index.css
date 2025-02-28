@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.logo{
+    width: 50rem;
+    height: 50rem;
+}
+
+/* .react-simple-captcha {
+    display: flex !important;
+    align-items: center !important;
+}
+.react-simple-captcha span {
+    order: -1; 
+    margin-right: 10px;
+} */
