@@ -99,7 +99,6 @@ async function fetchBestsellers(){
         }
      }
 
-
 // update user detail 
 
 async function updateUserProfile(userId, updatedData) {
@@ -177,6 +176,31 @@ async function removeFromCart(userId, productId) {
     }
 };
 
+
+//update cart items quantity
+async function updateCartItemQuantity(userId, productId, newQuantity) {
+    try {
+        const res = await fetch(`http://localhost:3000/userProfile/${userId}`);
+        const user = await res.json();
+
+        const updatedCart = user.cart.map(item =>
+            item.id === productId ? { ...item, quantity: newQuantity } : item
+        );
+
+        await fetch(`http://localhost:3000/userProfile/${userId}`, {
+            method: "PATCH",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ cart: updatedCart })
+        });
+
+        console.log("Cart Updated after quantity change:", updatedCart);
+    } catch (error) {
+        console.error("Error updating cart quantity:", error);
+    }
+}
+
+
+
 //add to wishlist
     async function fetchaddTolist(userId,product){
 
@@ -215,7 +239,7 @@ async function removeFromCart(userId, productId) {
         }
     }
 
-    return {loading,updateUserProfile,profileData,search,setSearch,fetchCartData,fetchsinglebestsellercard,bestsellerSinglePost,singlePost,setSinglePost,fetchSingleCardDesc,bestsellerspost,posts,addUserData,fetchaddUserData,userloginVerify,fetchCartWishlist,addToCart,removeFromCart,fetchaddTolist,fetchremoveFromlist,fetchBestsellers,fetchuserDataToLogin}
+    return {loading,updateUserProfile,updateCartItemQuantity,profileData,search,setSearch,fetchCartData,fetchsinglebestsellercard,bestsellerSinglePost,singlePost,setSinglePost,fetchSingleCardDesc,bestsellerspost,posts,addUserData,fetchaddUserData,userloginVerify,fetchCartWishlist,addToCart,removeFromCart,fetchaddTolist,fetchremoveFromlist,fetchBestsellers,fetchuserDataToLogin}
   
 }
 

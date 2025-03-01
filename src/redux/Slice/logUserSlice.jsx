@@ -20,6 +20,7 @@ export const logUserSlice =  createSlice({
         logoutUser: (state) => {
             console.log("logout user--")
             state.currentUser = null; 
+            console.log("current state",state.currentUser)
         }
     }
 })

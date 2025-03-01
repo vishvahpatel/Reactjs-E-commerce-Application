@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { FaShoppingCart } from "react-icons/fa";
 import { IoIosSearch } from "react-icons/io";
 import {GoHeartFill } from "react-icons/go";
@@ -19,6 +19,7 @@ const Navbar = () => {
 
   const [isDropDowmVisible,setDropDownVisible] = useState(false)
 
+
   const handleMouseHover = ()=>{
     setDropDownVisible(true)
   }
@@ -28,11 +29,11 @@ const Navbar = () => {
 
   const handleLogout = ()=>{
     dispatch(logoutUser())
-    navigate('/')
+    navigate('/',{ replace: true })
   }
   
   const handleSearch = (event) => {
-    if (event.key === "Enter") {
+    if (event.key === "Enter" && event.target.value) {
       navigate(`/home/product?q=${search}`);
     }
   };
@@ -51,6 +52,7 @@ const Navbar = () => {
           <li className='flex'>
 
           <input type="search" placeholder="Search..." className="h-8 w-40 inset-shadow-2xl rounded-md bg-gray-50 pl-6 pr-4 py-2"value={search}
+            
             onChange={(e) => setSearch(e.target.value.toLowerCase())} onKeyDown={handleSearch}/>
           <div className="flex items-center pointer-events-none absolute  text-black">
               <IoIosSearch className="mt-2 h-5 w-5 ml-1 cursor-pointer" />
@@ -84,10 +86,7 @@ const Navbar = () => {
                   size="30" round={true} />):
                   (<RxAvatar className="w-10 h-10 text-gray-600" />)}
                 </div>
-            
-  
-              {/* <NavLink to='/'> */}
-
+        
               <div onClick={handleMouseHover} onMouseLeave={handleMouseleave}>
                 <button className='flex cursor-pointer  h-9 rounded-md p-1  w-22' >
                   Login  
@@ -95,13 +94,25 @@ const Navbar = () => {
                     isDropDowmVisible? (<FaChevronUp  className='ml-1 mt-2 text-sm'/> ):(<FaChevronDown  className='ml-1 mt-2 text-sm'/> )
                   }
                   </button>
-                  {isDropDowmVisible && 
+                  {/* {isDropDowmVisible && 
                     <div className=' ml-4 bg-white pl-2 h-20 w-18 text-violet-600 text-md font-serif mt-2 pt-2 flex flex-col'>
                       <Link to='/home/profile' className='hover:underline cursor-pointer'>Profile</Link>
                       <p className='hover:underline cursor-pointer' onClick={handleLogout}>Logout</p> 
-                    </div>}
+                    </div>} */}
+                    {isDropDowmVisible && (
+                  <div className='ml-4 bg-white pl-2 h-20 w-18 text-violet-600 text-md font-serif mt-2 pt-2 flex flex-col'>
+                    {currentUser ? (
+                      <>
+                        <Link to='/home/profile' className='hover:underline cursor-pointer'>Profile</Link>
+                        <p className='hover:underline cursor-pointer' onClick={handleLogout}>Logout</p>
+                      </>
+                    ) : (
+                      <Link to='/' className='hover:underline cursor-pointer'>Login</Link>
+                    )}
+                  </div>
+                )}
               </div>
-              {/* </NavLink> */}
+              
                   </li>
 
           </ul>

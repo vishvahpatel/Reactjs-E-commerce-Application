@@ -1,11 +1,21 @@
 import React from 'react'
-import { useSelector } from 'react-redux'
+import { useDispatch, useSelector } from 'react-redux'
 import WishlistItems from '../components/WishlistItems'
 import { Link } from 'react-router-dom'
+import { setlist } from '../redux/Slice/WishlistSlice'
+import { useEffect } from 'react'
 
 const Wishlist = () => {
 
     const wishlist = useSelector((state)=>state.wishlist)
+    const currentUser = useSelector((state) => state.loguser.currentUser);
+    const dispatch = useDispatch()
+      useEffect(() => {
+        if (!currentUser) {
+          dispatch(setlist([])); 
+        }
+      }, [currentUser, dispatch]);
+    
   return (
     <div className='grid grid-cols-4 gap-4 ml-10 mb-5 mt-10'>
         { wishlist.length > 0?

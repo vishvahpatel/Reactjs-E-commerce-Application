@@ -1,17 +1,17 @@
 import React, { useState,useEffect } from 'react'
-import { useSelector } from 'react-redux'
+import { useSelector,useDispatch } from 'react-redux'
 import CartItems from '../components/CartItems'
 import { Link } from 'react-router-dom'
-
+import { setCart } from '../redux/Slice/CartSlice'
 
 
 const Cart = () => {
   const cart = useSelector((state) => state.cart);
- 
+  const currentUser = useSelector((state) => state.loguser.currentUser);
 
   const [totalAmount,setTotalAmount] = useState(0)
   const [totalItems,setTotalItems]= useState(0)
- 
+  const dispatch = useDispatch()
 
   useEffect(() => {
     setTotalAmount(
@@ -19,6 +19,11 @@ const Cart = () => {
     setTotalItems(cart.reduce((acc, curr) => acc + (Number(curr.quantity) || 1), 0));
   }, [cart]);
 
+  useEffect(() => {
+    if (!currentUser) {
+      dispatch(setCart([])); 
+    }
+  }, [currentUser, dispatch]);
 
   console.log("totalItems", totalItems)
   

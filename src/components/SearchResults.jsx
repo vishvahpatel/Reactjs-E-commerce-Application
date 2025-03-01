@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useLocation } from "react-router-dom";
-import Card from "./card";
+import Card from "./Card";
 import usefetchCartData from "../usefetchCartData";
 import { Spinner } from "@material-tailwind/react";
 

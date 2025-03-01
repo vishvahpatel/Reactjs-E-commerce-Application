@@ -20,12 +20,8 @@ const Card = ({post}) => {
 
     const handleAdd = (e) =>{
       e.preventDefault() 
-      console.log("before calling add")
         dispatch(add(post))
-        console.log("after calling add")
         addToCart(currentUser.id,post)
-        
-        console.log("after addto cart method",currentUser.id,post)
     }
     const handleremoveFromCart = (e)=>{
       e.preventDefault() 
@@ -35,18 +31,13 @@ const Card = ({post}) => {
     }
     const addlike = (e)=>{
       e.preventDefault() 
-      console.log("addlike")
       dispatch(addToList(post))
-      console.log("before addlist")
       fetchaddTolist(currentUser.id,post)
-      console.log("after fetch list",currentUser.id,post)
     }
     const removelike = (e) =>{
       e.preventDefault() 
       dispatch(removeFromList(post.id))
-      console.log("before removelist")
       fetchremoveFromlist(currentUser.id,post.id)
-      console.log("after removelist")
     }
 
 
@@ -65,7 +56,6 @@ const Card = ({post}) => {
 
         <h2 className='text-gray-600'>{post.title}</h2>
         <p className='text-sm'>{post.description.split(" ").slice(0,5).join(" ") + "..."}</p>
-        {/* <p>{post.rating.rate}({post.rating.count} reviews)</p> */}
         <div className='flex   w-40 place-items-center justify-center'>
                         <p className='font-semibold'>{post?.rating?.rate} </p> 
                         <p className='border-r-2 border-gray-300 mr-3 pr-2'> <IoIosStar   className='text-green-600 '/></p>
@@ -75,8 +65,8 @@ const Card = ({post}) => {
         <div>
         {
           cart?.some((p) => p.id == post.id)?
-          (<button className='h-8 w-35 bg-gray-400 text-gray-50 rounded-md cursor-pointer' onClick={handleremoveFromCart}>Remove Items</button>)
-          :(<button className='h-8 w-25 bg-gray-400 text-gray-50 rounded-md cursor-pointer' onClick={handleAdd}>Add to cart</button>)
+          (<button className='h-8 w-35 bg-violet-400  text-white rounded-md cursor-pointer' onClick={handleremoveFromCart}>Remove Items</button>)
+          :(<button className='h-8 w-25 bg-violet-600  text-white rounded-md cursor-pointer' onClick={handleAdd}>Add to cart</button>)
         }
         </div>
     </div>

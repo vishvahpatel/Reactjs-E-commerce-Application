@@ -9,7 +9,9 @@ import { useParams } from 'react-router-dom'
 
 const Home = () => {
   const { id } = useParams();
-  
+  useEffect(()=>{
+    window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+  },)
   return (
     <div>
     {

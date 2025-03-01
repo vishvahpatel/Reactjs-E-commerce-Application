@@ -8,7 +8,45 @@
       "email": "testing@gmail.com",
       "password": "Qwerty@123",
       "confirmpassword": "Qwerty@123",
+      "cart": [],
+      "wishlist": [],
+      "profileImage": "blob:http://localhost:5173/0a8c05ff-883e-4adc-8570-d13511c568f2"
+    },
+    {
+      "id": "26cd",
+      "firstname": "vishva",
+      "lastname": "patel",
+      "phoneNumber": "9908989990",
+      "email": "vishva07@gmail.com",
+      "password": "Vishva@7",
+      "confirmpassword": "Vishva@7",
       "cart": [
+        {
+          "id": "50",
+          "title": "Eye Shadow Palette - 12 Colors",
+          "price": 1599,
+          "description": "Highly pigmented eyeshadow palette for various looks.",
+          "category": "beautyproducts",
+          "image": [
+            "https://marscosmetics.in/cdn/shop/products/MG_6125-1.jpg?v=1648013955&width=1000",
+            "https://marscosmetics.in/cdn/shop/files/Artboard1_5.jpg?v=1719475457&width=200",
+            "https://marscosmetics.in/cdn/shop/files/Artboard2_7.jpg?v=1719475457&width=200",
+            "https://marscosmetics.in/cdn/shop/products/MG_6125-2_f89c9a23-1d52-438a-85c3-64f2a32a0c59.jpg?v=1719475457&width=200"
+          ],
+          "rating": {
+            "rate": 4.8,
+            "count": 450
+          },
+          "about": [
+            "12 highly pigmented shades for endless eye looks.",
+            "Blendable and buildable formula.",
+            "Matte, shimmer, and satin finishes.",
+            "Long-lasting wear without creasing.",
+            "Suitable for all skin tones."
+          ]
+        }
+      ],
+      "wishlist": [
         {
           "id": "1",
           "title": "Organic Whole Wheat Flour - 5kg",
@@ -32,56 +70,19 @@
           ]
         }
       ],
-      "wishlist": [
-        {
-          "id": "9",
-          "title": "Raw Cashews - 500g",
-          "price": 550,
-          "description": "Premium quality cashews, perfect for snacking and cooking.",
-          "category": "grocery",
-          "image": "https://www.jiomart.com/images/product/original/rvx5ombs4g/farmley-whole-cashews-natural-raw-w400-kaju-500g-product-images-orvx5ombs4g-p590593787-0-202310251255.jpg?im=Resize=(1000,1000)",
-          "rating": {
-            "rate": 4.6,
-            "count": 220
-          }
-        },
-        {
-          "id": "2",
-          "title": "Natural Almonds - 1kg",
-          "price": 500,
-          "description": "Premium quality natural almonds, rich in protein and fiber.",
-          "category": "grocery",
-          "image": [
-            "https://foodsalive.com/cdn/shop/files/Almond-Back.jpg?v=1713806961&width=416",
-            "https://foodsalive.com/cdn/shop/files/deluxe-mixed-nuts-back.jpg?v=1713807839&width=1780",
-            "https://foodsalive.com/cdn/shop/files/deluxe-mixed-nuts-nutrition.jpg?v=1713807839&width=1780"
-          ],
-          "rating": {
-            "rate": 4.7,
-            "count": 210
-          },
-          "about": [
-            "Sourced from premium quality almonds for superior taste and nutrition.",
-            "Rich in protein, fiber, and healthy fats.",
-            "Perfect as a healthy snack or for adding to dishes and desserts.",
-            "No added salt, sugar, or preservatives.",
-            "Packed with antioxidants and essential vitamins for overall well-being."
-          ]
-        }
-      ],
-      "profileImage": "blob:http://localhost:5173/0a8c05ff-883e-4adc-8570-d13511c568f2"
+      "profileImage": "blob:http://localhost:5173/01d9cfa8-6250-4393-8597-5f0169248ae4"
     },
     {
-      "id": "26cd",
-      "firstname": "vishva",
-      "lastname": "patel",
-      "phoneNumber": "9908989990",
-      "email": "vishva07@gmail.com",
-      "password": "Vishva@7",
-      "confirmpassword": "Vishva@7",
+      "id": "7906",
+      "firstname": "Khushii",
+      "lastname": "Patel",
+      "phoneNumber": "9904343057",
+      "email": "khushi@gmail.co",
+      "password": "Khushi@123",
+      "confirmpassword": "Khushi@123",
       "cart": [],
       "wishlist": [],
-      "profileImage": "blob:http://localhost:5173/01d9cfa8-6250-4393-8597-5f0169248ae4"
+      "profileImage": "blob:http://localhost:5173/8847b68a-850b-493f-b617-a722dd162c7c"
     }
   ],
   "bestsellers": [
@@ -160,7 +161,7 @@
       "id": "84",
       "title": "iPhone 13 - 128GB",
       "price": 79999,
-      "description": "Apple iPhone 13 with 128GB storage, A15 Bionic chip, and dual-camera system.",
+      "description": "Apple-iPhone 13 with 128GB storage, A15 Bionic chip, and dual-camera system.",
       "category": "mobiles",
       "image": [
         "https://m.media-amazon.com/images/I/71GLMJ7TQiL._SX679_.jpg",

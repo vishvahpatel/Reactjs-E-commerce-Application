@@ -6,24 +6,23 @@ import usefetchCartData from '../usefetchCartData';
 import { MdCurrencyRupee } from "react-icons/md";
 
 
-
 const CartItems = ({post}) => {
   const dispatch = useDispatch()
   const currentUser = useSelector((state) => state.loguser.currentUser)
   const {removeFromCart} = usefetchCartData()
-
+  const {updateCartItemQuantity} = usefetchCartData()
  
   const handleremoveFromCart = ()=>{
     dispatch(remove(post.id))
     removeFromCart(currentUser.id,post.id)
   }
 
-  const handleQuantityChange = (e) => {
+  const handleQuantityChange = async (e) => {
     const newQuantity = parseInt(e.target.value, 10);
     dispatch(updateQuantity({ id: post.id, quantity: newQuantity }));
-    console.log("quantity",newQuantity)
-  };
- 
+    await updateCartItemQuantity(currentUser.id, post.id, newQuantity);
+};
+
 
   return (
     <div className='flex justify-center h-50 w-150 mb-4 ml-4'>
